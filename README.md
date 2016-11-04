@@ -13,7 +13,29 @@
 
 - [微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)
 
-## 代码
+## 教程
+
+### 系列博客
+
+- 全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！
+  - [第一弹](http://www.diycode.cc/topics/311)
+  - [第二弹](http://www.diycode.cc/topics/312)
+  - [第三弹](http://www.diycode.cc/topics/316)
+  - [第四弹](http://www.diycode.cc/topics/325)
+  - [第五弹](http://www.diycode.cc/topics/328)
+  
+### 文章
+
+### 视频
+
+- [视频 - 全网首个微信小程序开发视频教程](http://www.howzhi.com/course/15035/)
+- [视频 - 微信小程序开发实战第一季(CSDN)](http://edu.csdn.net/course/detail/3011)
+- [视频 - 微信小程序开发实战第二季(CSDN)](http://edu.csdn.net/course/detail/3045)
+- [视频 - 极客学院微信小程序开发](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
+- [视频 - 微信小程序新手入门(51CTO)](http://edu.51cto.com/course/course_id-7242.html)
+
+
+## 优秀项目
 
 - [微信小应用示例代码(phodal/weapp-quick)](https://github.com/phodal/weapp-quick)
 - [微信小应用地图定位demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
