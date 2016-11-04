@@ -10,9 +10,16 @@
 - [小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
 - [从搭建一个微信小程序开始(腾讯云)](https://www.qcloud.com/act/event/yingyonghao.html)
 
-## 工具IDE
+## 工具
 
+### IDE
 - [微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)
+
+### 插件
+
+- [vim 插件(chemzqm/wxapp.vim)](https://github.com/chemzqm/wxapp.vim)
+- [sublime text 2&3 snippet(Abbotton/weapp-snippet-for-sublime-text-2-3)](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3)
+- [IntelliJ IDEA插件，注入方法](https://github.com/lypeer/Matchmaker)
 
 ## 教程
 
