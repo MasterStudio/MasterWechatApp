@@ -61,11 +61,17 @@
 - [视频 - 极客学院微信小程序开发](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
 - [视频 - 微信小程序新手入门(51CTO)](http://edu.51cto.com/course/course_id-7242.html)
 
+## 资源集合
+
+### 资源网站
+- [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
 
 ## 优秀项目
 
 ### 框架
 - [微信小程序组件化开发框架](https://github.com/maichong/labrador)
+- [微信小程序快速开发骨架](https://github.com/zce/weapp-boilerplate)
+- [小程序Redux绑定库](https://github.com/charleyw/wechat-weapp-redux)
 
 ### 组件库
 - [基于微信小程序的UI库（Wa-UI）](https://github.com/liujians/Wa-UI)
@@ -75,48 +81,58 @@
 #### Hello world
 - [小程序 hello world 尝鲜](https://github.com/kunkun12/weapp)
 - [小程序示例代码](https://github.com/phodal/weapp-quick)
+- [小程序开发从布局开始](https://github.com/hardog/wechat-app-flexlayout)
 
 #### 电商类
 - [仿手机淘宝](https://github.com/ChangQing666/wechat-weapp-taobao)
 - [购物车DEMO](https://github.com/SeptemberMaples/wechat-weapp-demo)
+- [巴爷供销社－电商平台](https://github.com/bayetech/wechat_mall_applet)
 
 #### 资讯评论
 - [知乎日报](https://github.com/myronliu347/wechat-app-zhihudaily)
+- [知乎仿写](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
 - [公众号热门文章信息流](https://github.com/hijiangtao/weapp-newsapp)
 - [豆瓣电影](https://github.com/hingsir/weapp-douban-film)
 - [豆瓣电影](https://github.com/zce/weapp-demo)
-- [微票(wangmingjob/weapp-weipiao)](https://github.com/wangmingjob/weapp-weipiao)
+- [掘金主页信息流](https://github.com/hilongjw/weapp-gold)
+- [微票](https://github.com/wangmingjob/weapp-weipiao)
+- [V2EX客户端](https://github.com/jectychen/wechat-v2ex)
+- [开心一刻](https://github.com/zhijieeeeee/wechat-app-joke)
+
+#### 照片墙
+- [Gank客户端](https://github.com/lypeer/wechat-weapp-gank)
+- [豆瓣美女/妹子图](https://github.com/litt1e-p/weapp-girls)
+- [WeChatMeiZhi妹子图)](https://github.com/brucevanfdm/WeChatMeiZhi)
+- [美女模特](https://github.com/liumulin614/BeautifulGirl)
+- [Artand 最专业的艺术设计平台](https://github.com/SuperKieran/weapp-artand)
 
 #### 地图定位
-- [微信小应用地图定位demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
-- [微信小应用- 掘金主页信息流(hilongjw/weapp-gold)](https://github.com/hilongjw/weapp-gold)
+- [微信小应用地图定位demo](https://github.com/giscafer/wechat-weapp-mapdemo)
+
+#### IM聊天
+- [聊天室](https://github.com/ericzyh/wechat-chat)
+- [HiApp](https://github.com/BelinChung/wxapp-hiapp)
+- [微信小程序版微信](https://github.com/18380435477/WeApp)
+
+#### 多媒体
+- [微信小程序-音乐播放器(eyasliu/wechat-app-music)](https://github.com/eyasliu/wechat-app-music)
 
 #### 游戏
 - [微信小程序版2048小游戏(natee/wxapp-2048)](https://github.com/natee/wxapp-2048)
+- [PigRaising](https://github.com/SeaHub/PigRaising)
 
-- [微信小程序V2EX(jectychen/wechat-v2ex)](https://github.com/jectychen/wechat-v2ex)
-- [微信小程序版Gank客户端(lypeer/wechat-weapp-gank)](https://github.com/lypeer/wechat-weapp-gank)
-- [微信小程序集成Redux实现的Todo list(charleyw/wechat-weapp-redux-todos)](https://github.com/charleyw/wechat-weapp-redux-todos)
-- [微信小程序-番茄时钟(kraaas/timer)](https://github.com/kraaas/timer)
-- [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
-- [微信小程序版聊天室(ericzyh/wechat-chat)](https://github.com/ericzyh/wechat-chat)
-- [微信小程序-HiApp(BelinChung/wxapp-hiapp)](https://github.com/BelinChung/wxapp-hiapp)
-- [小程序Redux绑定库(charleyw/wechat-weapp-redux)](https://github.com/charleyw/wechat-weapp-redux)
-- [微信小程序版微信(18380435477/WeApp)](https://github.com/18380435477/WeApp)
-- [小程序开发从布局开始(hardog/wechat-app-flexlayout)](https://github.com/hardog/wechat-app-flexlayout)
-- [微信小程序-音乐播放器(eyasliu/wechat-app-music)](https://github.com/eyasliu/wechat-app-music)
-- [微信小程序-简易计算器-适合入门（dunizb/wxapp-sCalc）](https://github.com/dunizb/wxapp-sCalc)
-- [微信小程序-github(zhengxiaowai/weapp-github)](https://github.com/zhengxiaowai/weapp-github)
-- [微信小程序-小熊の日记(harveyqing/BearDiary)](https://github.com/harveyqing/BearDiary)
-- [微信小程序(Seahub/PigRaising)](https://github.com/SeaHub/PigRaising)
-- [微信小程序(WeChatMeiZhi妹子图)](https://github.com/brucevanfdm/WeChatMeiZhi)
-- [微信小程序快速开发骨架](https://github.com/zce/weapp-boilerplate)
-- [微信小程序 - Artand 最专业的艺术设计平台](https://github.com/SuperKieran/weapp-artand)
-- [微信小程序 - 开心一刻(zhijieeeeee/wechat-app-joke)](https://github.com/zhijieeeeee/wechat-app-joke)
-- [微信小程序 - GitHubFeed(uniquexiaobai/wechat-app-githubfeed)](https://github.com/uniquexiaobai/wechat-app-githubfeed)
-- [微信小程序 - 国外摄影社区500px(fluency03/weapp-500px)](https://github.com/fluency03/weapp-500px)
-- [微信小程序 - 巴爷供销社－电商平台(bayetech)](https://github.com/bayetech/wechat_mall_applet)
+#### 小工具
+- [简易计算器-适合入门](https://github.com/dunizb/wxapp-sCalc)
+- [番茄时钟](https://github.com/kraaas/timer)
+- [小熊の日记(harveyqing/BearDiary)](https://github.com/harveyqing/BearDiary)
 
-- [微信小程序-豆瓣美女/妹子图(weapp-girls)](https://github.com/litt1e-p/weapp-girls)
-- [微信小程序-美女模特(BeautifulGirl)](https://github.com/liumulin614/BeautifulGirl)
-- [微信小程序 - 知乎仿写(RebeccaHanjw/weapp-wechat-zhihu)](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
+#### Github
+- [微信小程序-github](https://github.com/zhengxiaowai/weapp-github)
+- [GitHubFeed](https://github.com/uniquexiaobai/wechat-app-githubfeed)
+
+#### Redux
+- [集成Redux实现的Todo list](https://github.com/charleyw/wechat-weapp-redux-todos)
+
+
+
+
