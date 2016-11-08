@@ -8,7 +8,8 @@
 - [小程序开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
 - [小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
 - [小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
-- [从搭建一个微信小程序开始(腾讯云)](https://www.qcloud.com/act/event/yingyonghao.html)
+- [腾讯云 —— 从搭建一个微信小程序开始](https://www.qcloud.com/act/event/yingyonghao.html)
+- [腾讯云 —— 微信小程序一站式解决方案](https://github.com/tencentyun/weapp-solution)
 
 ## 工具
 
@@ -61,6 +62,10 @@
 - [视频 - 极客学院微信小程序开发](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
 - [视频 - 微信小程序新手入门(51CTO)](http://edu.51cto.com/course/course_id-7242.html)
 
+### 真机测试
+- [微信小程序真机测试多个DEMO)(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzA5NTQ4NjkyMQ==&mid=2650723004&idx=1&sn=a6bcbf354beca3e745c47e542e119e5c&chksm=88b4e41abfc36d0c547698b6f4f3669b1aa351a879332c2848ffd6618dbf23cb41316dca570a&scene=0#rd)
+- [微信小程序真机测试视频源文件](https://github.com/bestony/WeApp-Demo)
+
 ## 资源集合
 
 ### 资源网站
@@ -69,12 +74,16 @@
 ## 优秀项目
 
 ### 框架
-- [微信小程序组件化开发框架](https://github.com/maichong/labrador)
+- [Labrador —— 微信小程序组件化开发框架](https://github.com/maichong/labrador)
+ + [使用Labrador 0.3构建ES6/ES7标准模块化微信小程序(SegmentFault)](https://segmentfault.com/a/1190000007109050)
+ 
 - [微信小程序快速开发骨架](https://github.com/zce/weapp-boilerplate)
 - [小程序Redux绑定库](https://github.com/charleyw/wechat-weapp-redux)
 
 ### 组件库
 - [基于微信小程序的UI库（Wa-UI）](https://github.com/liujians/Wa-UI)
+- [倒计时组件](http://mp.weixin.qq.com/s?__biz=MzI0MjYwMjM2NQ==&mid=2247483670&idx=1&sn=5aa5da2fff2415e9b19f848712ddf480&chksm=e9789904de0f1012159332fda391c3eec0bb3d1c0db2c34ab557208ff0c04806a40d00e844fe&mpshare=1&scene=1&srcid=1007cWRXdd0ug9oAceCsIWp6#rd)
+- [下拉筛选组件](http://mp.weixin.qq.com/s?__biz=MzI0MjYwMjM2NQ==&mid=2247483674&idx=1&sn=2bf242b391144f3f0e57e0ed0ebce36f&chksm=e9789908de0f101ee23f7c125c9a48c4f9ba3f242a3b1c89b05ca5b9e8e68262c02b47fe3d12&mpshare=1&scene=1&srcid=1008NvO9oI8wWGp4XBxlpLeL#rd)
 
 ### Demo
 
