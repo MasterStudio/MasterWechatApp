@@ -32,6 +32,13 @@
 - [微信小程序配置及目录在线生成工具](https://weapptool.com)
 - [wxml-parser JavaScript WXML parser](https://github.com/seanlong/wxml-parser) 以及[在线页面demo](https://seanlong.github.io/wxapp-page-editor)
 
+## 资源集合
+
+### 资源网站
+- [微信小程序联盟](http://www.wxapp-union.com/)
+- [小程序开发论坛](http://weappdev.com/)
+- [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
+
 ## 教程
 
 ### 系列博客
@@ -78,7 +85,7 @@
 - [一张图看微信小程序(前端之路 - DRY)](http://zhenhua-lee.github.io/manmage/wx.html)
 - [微信小程序要这样解读(CSDN)](http://blog.csdn.net/yanzhenjie1003/article/details/52698184)
 - [一名Android开发者的微信小程序填坑之路(1)](http://blog.csdn.net/luoyanglizi/article/details/52681245)
-
+- [干货：微信小程序框架全解脑图，一张图看清组件构造，学习必备](http://www.wxapp-union.com/portal.php?mod=view&aid=285)
 
 
 ### 视频
@@ -93,10 +100,7 @@
 - [微信小程序真机测试多个DEMO)(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzA5NTQ4NjkyMQ==&mid=2650723004&idx=1&sn=a6bcbf354beca3e745c47e542e119e5c&chksm=88b4e41abfc36d0c547698b6f4f3669b1aa351a879332c2848ffd6618dbf23cb41316dca570a&scene=0#rd)
 - [微信小程序真机测试视频源文件](https://github.com/bestony/WeApp-Demo)
 
-## 资源集合
 
-### 资源网站
-- [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
 
 ## 优秀项目
 
