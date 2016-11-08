@@ -13,16 +13,24 @@
 
 ## 工具
 
-### IDE
+### IDE与运行环境
 - [微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)
 - [IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)
+- [IDE的安装以及安装过程的常见问题](https://github.com/champion32/WeAppIdeIssue)
 - [Egret Wing 3.2.x 支持微信小程序实时预览的IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
+- [WEPT 一个微信小程序实时运行环境](https://github.com/chemzqm/wept)
+
 
 ### 插件
 
 - [Vim 插件(chemzqm/wxapp.vim)](https://github.com/chemzqm/wxapp.vim)
 - [Sublime text 2&3 snippet(Abbotton/weapp-snippet-for-sublime-text-2-3)](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3)
 - [IntelliJ IDEA插件，注入方法](https://github.com/lypeer/Matchmaker)
+ + [小程序开发利器：Matchmaker](http://blog.csdn.net/luoyanglizi/article/details/52711634)
+
+### 小工具
+- [微信小程序配置及目录在线生成工具](https://weapptool.com)
+- [wxml-parser JavaScript WXML parser](https://github.com/seanlong/wxml-parser) 以及[在线页面demo](https://seanlong.github.io/wxapp-page-editor)
 
 ## 教程
 
@@ -47,15 +55,31 @@
  + [（五）创建一个兼容「微信小程序」的Web框架](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974149&idx=1&sn=3efe5e6ee479ad6cbddc0a607cd40411#rd)
 
 - 微信小程序架构分析(知乎专栏)
- + [(上) 调试技巧、主要模块构成、模块间通信、设计理念分析](https://zhuanlan.zhihu.com/p/22754296)
- + [(中) view 模块和 service 模块是如何构成的](https://zhuanlan.zhihu.com/p/22765476)
- + [(下) 小程序 web 服务实现、实现小程序实时更新](https://zhuanlan.zhihu.com/p/22932309)
+ + [（上）调试技巧、主要模块构成、模块间通信、设计理念分析](https://zhuanlan.zhihu.com/p/22754296)
+ + [（中）View 模块和 Service 模块是如何构成的](https://zhuanlan.zhihu.com/p/22765476)
+ + [（下）小程序 web 服务实现、实现小程序实时更新](https://zhuanlan.zhihu.com/p/22932309)
 
 ### 文章
-- [首个微信小程序开发教程(掘金)](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
-- [微信小程序开发教程！(稀土区)](http://xituqu.com/508.html)
-- [hello-weapp 微信小程序最简示例教程(dingyiming/weapp-example)](https://github.com/dingyiming/weapp-example)
-- [微信小程序开发教程-从零开始(简书)](http://www.jianshu.com/p/aaef5ceb3936)
+- [首个微信小程序开发教程](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
+- [微信小程序开发教程！](http://xituqu.com/508.html)
+- [微信小程序怎么开发？玩物志用一个上午上线了电商应用(爱范儿)](http://www.ifanr.com/721124)
+
+- [微信小程序开发教程-从零开始](http://www.jianshu.com/p/aaef5ceb3936)
+- [微信小程序快速入门教程|VR视频推荐DEMO](http://www.jianshu.com/p/0831f0b08a57)
+- [分享我用cnode社区api做微信小应用的入门过程(CNode)](https://cnodejs.org/topic/57ea257b3670ca3f44c5beb6)
+- [微信小程序集成Redux(Segmentfault)](https://segmentfault.com/a/1190000007107646)
+- [微信小程序ajax请求到自己的网站(庆恺的笔记)](http://www.toutiao.com/i6337811737235948034/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&isappinstalled=1&iid=5802414556&utm_medium=toutiao_ios&wxshare_count=2&pbid=21507233636)
+- [微信小程序剖析 | 运行机制及框架原理(前端之巅)](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484316&idx=1&sn=463bbea1626458beb30f55ce155b4983&chksm=9723615ea054e848497c3b72e5264d99c9230144bd21862c508211085bf93b71078cc2fc1fc5&mpshare=1&scene=1&srcid=1013yiCsz6WNYwpKs2UDYuOO#rd)
+- [关于小程序你不知道的秘密(腾讯云助手)](http://mp.weixin.qq.com/s?__biz=MzA3NTE4NTgzMQ==&mid=2648022620&idx=1&sn=7cdff020ee181c661d62d2e971a6230e&chksm=87555594b022dc822eeebf203e9a236268fef86d133b38d8d2dab73ebaee3cff236a5184a63a&mpshare=1&scene=1&srcid=0927JARMptVhu0L9MzFdoZuZ#rd)
+- [关于微信小程序（应用号）的底层逻辑分析和拥抱建议(知乎专栏)](https://zhuanlan.zhihu.com/p/22565340)
+- [开发微信小程序的必备技能图谱(CSDN)](http://geek.csdn.net/news/detail/103138)
+- [微信小程序和谷歌PWA有什么关系？(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652039482&idx=2&sn=778e1313ebbd832b590b81a8088b63db#rd)
+- [在微信小程序里，我们要怎样做数据分析（上）(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzI0ODU0MDg0Mw==&mid=2247483754&idx=1&sn=9578311da11d1fd3889e0829505c3993&scene=2&srcid=0924io6H1CmEPGYJxmEQVtlA)
+- [一张图看微信小程序(前端之路 - DRY)](http://zhenhua-lee.github.io/manmage/wx.html)
+- [微信小程序要这样解读(CSDN)](http://blog.csdn.net/yanzhenjie1003/article/details/52698184)
+- [一名Android开发者的微信小程序填坑之路(1)](http://blog.csdn.net/luoyanglizi/article/details/52681245)
+
+
 
 ### 视频
 
@@ -77,9 +101,9 @@
 ## 优秀项目
 
 ### 框架
-- [Labrador —— 微信小程序组件化开发框架](https://github.com/maichong/labrador)
+- [Labrador 支持ES6/7的微信小程序组件化开发框架](https://github.com/maichong/labrador)
+ + [微信小程序开发三宗罪和解决方案(SegmentFault)](https://segmentfault.com/a/1190000007017985)
  + [使用Labrador 0.3构建ES6/ES7标准模块化微信小程序(SegmentFault)](https://segmentfault.com/a/1190000007109050)
- 
 - [微信小程序快速开发骨架](https://github.com/zce/weapp-boilerplate)
 - [小程序Redux绑定库](https://github.com/charleyw/wechat-weapp-redux)
 
@@ -91,9 +115,11 @@
 ### Demo
 
 #### Hello world
+- [hello-weapp 微信小程序最简示例教程](https://github.com/dingyiming/weapp-example)
 - [小程序 hello world 尝鲜](https://github.com/kunkun12/weapp)
 - [小程序示例代码](https://github.com/phodal/weapp-quick)
 - [小程序开发从布局开始](https://github.com/hardog/wechat-app-flexlayout)
+
 
 #### 电商类
 - [仿手机淘宝](https://github.com/ChangQing666/wechat-weapp-taobao)
