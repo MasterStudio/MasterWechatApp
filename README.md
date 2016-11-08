@@ -67,6 +67,9 @@
 ### 框架
 - [微信小程序组件化开发框架](https://github.com/maichong/labrador)
 
+### 组件库
+- [基于微信小程序的UI库（Wa-UI）](https://github.com/liujians/Wa-UI)
+
 ### Demo
 
 #### Hello world
@@ -77,10 +80,12 @@
 - [仿手机淘宝](https://github.com/ChangQing666/wechat-weapp-taobao)
 - [购物车DEMO](https://github.com/SeptemberMaples/wechat-weapp-demo)
 
-
 #### 资讯评论
-- [微信小程序（应用号）示例：微信小程序豆瓣电影(zce/weapp-demo)](https://github.com/zce/weapp-demo)
-- [微信小程序-豆瓣电影(hingsir/weapp-douban-film)](https://github.com/hingsir/weapp-douban-film)
+- [知乎日报](https://github.com/myronliu347/wechat-app-zhihudaily)
+- [公众号热门文章信息流](https://github.com/hijiangtao/weapp-newsapp)
+- [豆瓣电影](https://github.com/hingsir/weapp-douban-film)
+- [豆瓣电影](https://github.com/zce/weapp-demo)
+- [微票(wangmingjob/weapp-weipiao)](https://github.com/wangmingjob/weapp-weipiao)
 
 #### 地图定位
 - [微信小应用地图定位demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
@@ -88,10 +93,8 @@
 
 #### 游戏
 - [微信小程序版2048小游戏(natee/wxapp-2048)](https://github.com/natee/wxapp-2048)
-- [微票(wangmingjob/weapp-weipiao)](https://github.com/wangmingjob/weapp-weipiao)
+
 - [微信小程序V2EX(jectychen/wechat-v2ex)](https://github.com/jectychen/wechat-v2ex)
-- [微信小程序-知乎日报(myronliu347/wechat-app-zhihudaily)](https://github.com/myronliu347/wechat-app-zhihudaily)
-- [微信小程序-公众号热门文章信息流(hijiangtao/weapp-newsapp)](https://github.com/hijiangtao/weapp-newsapp)
 - [微信小程序版Gank客户端(lypeer/wechat-weapp-gank)](https://github.com/lypeer/wechat-weapp-gank)
 - [微信小程序集成Redux实现的Todo list(charleyw/wechat-weapp-redux-todos)](https://github.com/charleyw/wechat-weapp-redux-todos)
 - [微信小程序-番茄时钟(kraaas/timer)](https://github.com/kraaas/timer)
@@ -113,7 +116,7 @@
 - [微信小程序 - GitHubFeed(uniquexiaobai/wechat-app-githubfeed)](https://github.com/uniquexiaobai/wechat-app-githubfeed)
 - [微信小程序 - 国外摄影社区500px(fluency03/weapp-500px)](https://github.com/fluency03/weapp-500px)
 - [微信小程序 - 巴爷供销社－电商平台(bayetech)](https://github.com/bayetech/wechat_mall_applet)
-- [基于微信小程序的UI库（Wa-UI）](https://github.com/liujians/Wa-UI)
+
 - [微信小程序-豆瓣美女/妹子图(weapp-girls)](https://github.com/litt1e-p/weapp-girls)
 - [微信小程序-美女模特(BeautifulGirl)](https://github.com/liumulin614/BeautifulGirl)
 - [微信小程序 - 知乎仿写(RebeccaHanjw/weapp-wechat-zhihu)](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
