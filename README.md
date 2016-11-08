@@ -68,15 +68,27 @@
 - [微信小程序组件化开发框架](https://github.com/maichong/labrador)
 
 ### Demo
-- [微信小应用示例代码(phodal/weapp-quick)](https://github.com/phodal/weapp-quick)
-- [微信小应用地图定位demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
-- [微信小应用- 掘金主页信息流(hilongjw/weapp-gold)](https://github.com/hilongjw/weapp-gold)
+
+#### Hello world
+- [小程序 hello world 尝鲜](https://github.com/kunkun12/weapp)
+- [小程序示例代码](https://github.com/phodal/weapp-quick)
+
+#### 电商类
+- [仿手机淘宝](https://github.com/ChangQing666/wechat-weapp-taobao)
+- [购物车DEMO](https://github.com/SeptemberMaples/wechat-weapp-demo)
+
+
+#### 资讯评论
 - [微信小程序（应用号）示例：微信小程序豆瓣电影(zce/weapp-demo)](https://github.com/zce/weapp-demo)
 - [微信小程序-豆瓣电影(hingsir/weapp-douban-film)](https://github.com/hingsir/weapp-douban-film)
-- [小程序 hello world 尝鲜(kunkun12/weapp)](https://github.com/kunkun12/weapp)
+
+#### 地图定位
+- [微信小应用地图定位demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
+- [微信小应用- 掘金主页信息流(hilongjw/weapp-gold)](https://github.com/hilongjw/weapp-gold)
+
+#### 游戏
 - [微信小程序版2048小游戏(natee/wxapp-2048)](https://github.com/natee/wxapp-2048)
-- [微信小程序-微票(wangmingjob/weapp-weipiao)](https://github.com/wangmingjob/weapp-weipiao)
-- [微信小程序购物车DEMO(SeptemberMaples/wechat-weapp-demo)](https://github.com/SeptemberMaples/wechat-weapp-demo)
+- [微票(wangmingjob/weapp-weipiao)](https://github.com/wangmingjob/weapp-weipiao)
 - [微信小程序V2EX(jectychen/wechat-v2ex)](https://github.com/jectychen/wechat-v2ex)
 - [微信小程序-知乎日报(myronliu347/wechat-app-zhihudaily)](https://github.com/myronliu347/wechat-app-zhihudaily)
 - [微信小程序-公众号热门文章信息流(hijiangtao/weapp-newsapp)](https://github.com/hijiangtao/weapp-newsapp)
