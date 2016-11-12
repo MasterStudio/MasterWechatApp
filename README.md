@@ -1,4 +1,4 @@
-# MasterWechatApp ![master_bandage](https://raw.githubusercontent.com/MasterStudio/MasterGuide/master/master.svg)
+# MasterWechatApp ![master_bandage](https://cdn.rawgit.com/MasterStudio/MasterGuide/master/master.svg)
 
 微信小程序优秀资源汇总
 
