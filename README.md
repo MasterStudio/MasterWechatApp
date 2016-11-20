@@ -110,6 +110,7 @@
  + [使用Labrador 0.3构建ES6/ES7标准模块化微信小程序(SegmentFault)](https://segmentfault.com/a/1190000007109050)
 - [微信小程序快速开发骨架](https://github.com/zce/weapp-boilerplate)
 - [小程序Redux绑定库](https://github.com/charleyw/wechat-weapp-redux)
+- [微信小程序 StartKit(Gulp + Babel + Sass)](https://github.com/zarknight/wxapp-startkit)
 
 ### 组件库
 - [基于微信小程序的UI库（Wa-UI）](https://github.com/liujians/Wa-UI)
