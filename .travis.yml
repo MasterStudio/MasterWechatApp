@@ -1,0 +1,24 @@
+language: node_js
+node_js:
+- '6'
+branches:
+  only:
+  - master
+install:
+- npm install -g gitbook-cli
+before_script:
+- gitbook install
+script:
+- gitbook build
+after_success:
+- cd _book
+- git config --global user.name 'wangyf'
+- git config --global user.email 'zgtjwyftc@gmail.com'
+- git init
+- git add .
+- git commit -m "Deploy to GitHub Pages"
+- git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
+env:
+  global:
+  - GH_REF: github.com/MasterStudio/MasterWechatApp.git
+  - secure: RnWu+LXXH2c/CpKYpyNQ/fCSPsqfwswn9Dga00Vsr7Gp11doPFUkj5onn2fBqurb/9L6LC8kdTi1n7kmU26GJYkARK+tlX8cdI459LYm21ICNJT1Fxu8G9WsfZNcykIs7XAgn4rrvJypwe/7pEs5wPdsprJPpVe+uTxNBv0VBigJgymk2CYiYPKvc0nfupExaba+ENsyJyTaq9P/fnAFolnyNS8L3F9L+VPBeZ01S8Raxg3s/4LfCvFVwRhhGJFS7Njz7QUibumiyugJdagUH8oqGDiDuTnTCQRBNXBqH0AtO0BWGe2jRWLRwVvv1HjM3j3h2nhnPpmhx2IBw/V1eOZ940mb0niStpBrlsREBkCM01hmZEeubFvbrTRMjgYigww/agIQbzWAHIeUq8snWoTHGLUyj3YyYKhCZpaIcmLnq8TA2vF6N7pmwNtLrtrHuQ2ypiur8S3DIdWsr8wXmzSmZKc11AnvsiDBIaC+lQv+8LnizMGfVQBrKgkkDQIbEjTEzwy2eOoBtauNV1LusW2Vr84NPrjM2DEF4VXcLDek28A1jLI7uh3NJi0fVkF3JNKtkseO4CPYV1bUiCYm6hinmUwfMJ8GtzG0x6zgYJYQW5vObhhLWh/SoxrYRaIPPrjqgUC8PQ7UWWthnoZAtSboMYExhUIUtZ6H/oF3hj0=
