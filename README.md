@@ -4,40 +4,19 @@
 
 ## 官方文档
 
-- [公测申请入口——微信公众平台](https://mp.weixin.qq.com/)
-- [小程序开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
-- [小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
-- [小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
-- [腾讯云 —— 从搭建一个微信小程序开始](https://www.qcloud.com/act/event/yingyonghao.html)
-- [腾讯云 —— 微信小程序一站式解决方案](https://github.com/tencentyun/weapp-solution)
-
 ## 工具
 
 ### IDE与运行环境
-- [微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)
-- [IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)
-- [IDE的安装以及安装过程的常见问题](https://github.com/champion32/WeAppIdeIssue)
-- [Egret Wing 3.2.x 支持微信小程序实时预览的IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
-- [WEPT 一个微信小程序实时运行环境](https://github.com/chemzqm/wept)
-
 
 ### 插件
 
-- [Vim 插件(chemzqm/wxapp.vim)](https://github.com/chemzqm/wxapp.vim)
-- [Sublime text 2&3 snippet(Abbotton/weapp-snippet-for-sublime-text-2-3)](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3)
-- [IntelliJ IDEA插件，注入方法](https://github.com/lypeer/Matchmaker)
- + [小程序开发利器：Matchmaker](http://blog.csdn.net/luoyanglizi/article/details/52711634)
-
 ### 小工具
-- [微信小程序配置及目录在线生成工具](https://weapptool.com)
-- [wxml-parser JavaScript WXML parser](https://github.com/seanlong/wxml-parser) 以及[在线页面demo](https://seanlong.github.io/wxapp-page-editor)
 
-## 资源集合
+## 资源
+
+### 资源集合
 
 ### 资源网站
-- [微信小程序联盟](http://www.wxapp-union.com/)
-- [小程序开发论坛](http://weappdev.com/)
-- [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
 
 ## 教程
 
