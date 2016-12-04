@@ -9,3 +9,7 @@
 * [资源](resources/README.md)
   * [合集](resources/res_collections.md)
   * [网站](resources/res_website.md)
+* [教程](guide/README.md)
+  * [博客](guide/guide_blog.md)
+  * [文章](guide/guide_article.md)
+  * [视频](guide/guide_video.md)
