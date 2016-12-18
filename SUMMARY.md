@@ -1,7 +1,12 @@
 # Summary
 
 * [简介](README.md)
-* [官方文档](official/README.md)
+* [文档](doc/README.md)
+  * [介绍](doc/doc_intro.md)
+  * [设计](doc/doc_design.md)
+  * [开发](doc/doc_develop.md)
+  * [运营](doc/doc_operation.md)
+  * [云端](doc/doc_cloud.md)
 * [工具](tools/README.md)
   * [IDE](tools/tools_ide.md)
   * [插件](tools/tools_plugins.md)
@@ -14,7 +19,7 @@
   * [文章](guide/guide_article.md)
   * [视频](guide/guide_video.md)
   * [在线课程](guide/guide_course.md)
-* [组件](module/README.md)
+* [轮子](module/README.md)
   * [框架](module/framework.md)
   * [UI组件](module/module_ui.md)
 * [案例](demo/README.md)
