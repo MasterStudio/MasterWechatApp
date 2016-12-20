@@ -1,9 +1,8 @@
-# 文章
+## 文章
 
 - [首个微信小程序开发教程](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
 - [微信小程序开发教程！](http://xituqu.com/508.html)
 - [微信小程序怎么开发？玩物志用一个上午上线了电商应用(爱范儿)](http://www.ifanr.com/721124)
-
 - [微信小程序开发教程-从零开始](http://www.jianshu.com/p/aaef5ceb3936)
 - [微信小程序快速入门教程|VR视频推荐DEMO](http://www.jianshu.com/p/0831f0b08a57)
 - [分享我用cnode社区api做微信小应用的入门过程(CNode)](https://cnodejs.org/topic/57ea257b3670ca3f44c5beb6)

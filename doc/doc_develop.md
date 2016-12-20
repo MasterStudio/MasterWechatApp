@@ -279,7 +279,7 @@
 - [下载](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
 - [历史更新日志](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/uplog.html)
 
-### [Q&A](https://mp.weixin.qq.com/debug/wxadoc/dev/qa/qa.html)
+### [QA](https://mp.weixin.qq.com/debug/wxadoc/dev/qa/qa.html)
 
 - [Q&A](https://mp.weixin.qq.com/debug/wxadoc/dev/qa/qa.html)
   - 怎么获取用户输入
