@@ -5,7 +5,7 @@
 
 ## 本项目地址
 
-仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp)
+Github 仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp)
 
 在线阅读 (Github Pages)：[master-wang.github.io/MasterWechatApp/](https://masterstudio.github.io/MasterWechatApp/)
 
@@ -31,9 +31,8 @@
   - [博客](guide/guide_blog.md)  `/guide/guide_blog.md`
   - [文章](guide/guide_article.md)  `/guide/guide_article.md`
   - [视频](guide/guide_video.md)  `/guide/guide_video.md`
-  - [在线课程](guide/guide_course.md)  `/guide/guide_course.md`
 - [轮子](module/README.md)  `/module/README.md`
-  - [框架](module/framework.md)  `/module/framework.md`
+  - [框架](module/module_framework.md)  `/module/module_framework.md`
   - [UI组件](module/module_ui.md)  `/module/module_ui.md`
 - [案例](demo/README.md)  `/demo/README.md`
   - [HelloWorld](demo/demo_hello_world.md)   `/demo/demo_hello_world.md`

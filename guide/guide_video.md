@@ -1,7 +1,7 @@
 ## 视频
 
 - [免费：全网首个微信小程序开发视频教程（33课时）](http://www.howzhi.com/course/15035/)
-- [免费：[WXOPEN.Club出品] 微信小程序开发视频教程 （持续更新中...）](http://wxopen.club/topic/582d4999745f85100cd13a65)
+- [免费：[WXOPEN.Club出品] 微信小程序开发视频教程 （持续更新中...）](http://wxopen.club/topic/582d4999745f85100cd13a65) 以及 [配套源代码](https://github.com/ParryQiu/wxopenclub-wxapp-lessons)
 
 ### CSDN
 
