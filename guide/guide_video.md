@@ -20,3 +20,7 @@
 ### 51CTO
 
 - [51CTO - 微信小程序新手入门](http://edu.51cto.com/course/course_id-7242.html)
+
+### 千锋
+
+- [免费：千锋微信小程序开发文档视频教程（13讲）](http://my.tv.sohu.com/pl/9206349/index.shtml)

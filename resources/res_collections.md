@@ -2,12 +2,45 @@
 
 ### 资源汇总
 
-- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+#### [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
 ![star](https://img.shields.io/github/stars/justjavac/awesome-wechat-weapp.svg?style=social&label=Star)
 ![fork](https://img.shields.io/github/forks/justjavac/awesome-wechat-weapp.svg?style=social&label=Fork)
 
 微信小程序开发资源汇总 wechat weapp
+
+目录：
+
+- 官方文档
+- 新闻报道
+- 社区
+- 工具
+- 插件
+- 分析
+- 讨论
+- 教程
+- 视频教程
+- 文章
+- 代码
+- 轮子
+
+
+#### [Aufree/awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp)
+
+![star](https://img.shields.io/github/stars/Aufree/awesome-wechat-weapp.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/Aufree/awesome-wechat-weapp.svg?style=social&label=Fork)
+
+微信小应用资源汇总整理
+
+目录：
+
+- 开源项目
+- 文档
+- 教程
+- 知乎讨论
+- 媒体报道
+- 文章
+
 
 ### 项目汇总
 

@@ -2,13 +2,18 @@
 
 ### 官方IDE
 
+#### 官方下载地址
+
 - [下载地址](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
+
+#### 文章介绍
+
+- [想开发小程序？先了解开发者工具怎么用 | 小程序接入指南](http://www.ifanr.com/minapp/749203)
+- [小程序有更新：开发环境不再限制白名单](http://www.ifanr.com/minapp/751324)
 
 ### 第三方IDE
 
-
 #### [WEPT](https://github.com/chemzqm/wept)
-
 
 ![npm version](https://badge.fury.io/js/wept.svg) ![Dependency Status](https://david-dm.org/chemzqm/wept.svg)
 

@@ -20,3 +20,4 @@
   - [微信小程序认证指引](doc_operation.html#微信小程序认证指引)
 - [云端](doc_cloud.html)
   - [腾讯云](doc_cloud.html#腾讯云)
+  - [LeanCloud](doc_cloud.html#LeanCloud)

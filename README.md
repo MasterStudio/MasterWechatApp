@@ -34,6 +34,7 @@ Github 仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/M
 - [轮子](module/README.md)  `/module/README.md`
   - [框架](module/module_framework.md)  `/module/module_framework.md`
   - [UI组件](module/module_ui.md)  `/module/module_ui.md`
+  - [库](module/module_library.md)  `/module/module_library.md`
 - [案例](demo/README.md)  `/demo/README.md`
   - [HelloWorld](demo/demo_hello_world.md)   `/demo/demo_hello_world.md`
   - [电商类](demo/demo_ebiz.md)   `/demo/demo_ebiz.md`

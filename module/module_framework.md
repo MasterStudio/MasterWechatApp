@@ -36,19 +36,75 @@ Labrador 支持ES6/7的微信小程序组件化开发框架
 ![star](https://img.shields.io/github/stars/wepyjs/wepy.svg?style=social&label=Star)
 ![fork](https://img.shields.io/github/forks/wepyjs/wepy.svg?style=social&label=Fork)
 
-#### [官方文档](https://wepyjs.github.io/wepy)
-
-### 骨架
-
-- [微信小程序开发基础骨架](https://github.com/zce/weapp-boilerplate)
+[官方文档](https://wepyjs.github.io/wepy)
 
 ## 其他
 
-### Redux
+### [Weapp-boilerplate](https://github.com/zce/weapp-boilerplate)
+
+![travis-ci](https://travis-ci.org/zce/weapp-boilerplate.svg?branch=master) ![Dependency Status](https://david-dm.org/zce/weapp-boilerplate.svg)
+
+![star](https://img.shields.io/github/stars/zce/weapp-boilerplate.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/zce/weapp-boilerplate.svg?style=social&label=Fork)
+
+一个为微信小程序开发准备的基础骨架
+
+#### 功能点
+
+- 开发阶段与生产阶段分离
+- 自动化生成新页面所需文件并添加到配置中
+- 以 `Standard Code Style` 校验全部的 `js` 和 `json` 文件
+- 开发阶段 `json配置文件` 可以有注释，方便备注
+- 代码中集成部分文档内容，减少查文档的时间
+- 开发阶段可以使用 `less` 完成样式编码，原因你懂得~ （如果你了解这些，当然可以支持 `sass` 等其他预处理样式）
+- 借助 `babel` 自动进行 `ES2015` 特性转换，放心使用新特性
+- 开发阶段用 `xml` 文件后缀取代 `wxml` 后缀，避免在开发工具中配置代码高亮
+- `Source Map`
+- `Travis CI`
+
+
+### [StartKit(Gulp + Babel + Sass)](https://github.com/zarknight/wxapp-startkit)
+
+![travis-ci](https://travis-ci.org/zarknight/wxapp-startkit.svg?branch=master) ![Dependency Status](https://david-dm.org/zarknight/wxapp-startkit.svg)
+
+![star](https://img.shields.io/github/stars/zarknight/wxapp-startkit.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/zarknight/wxapp-startkit.svg?style=social&label=Fork)
+
+微信小程序 StartKit
+
+#### 功能点
+
+- 使用 `ES6(ES2015)` 提供的语法进行开发，构建时用 `Babel` 进行转译
+- 使用 `SASS` 作为样式表预处理器
+- 编译后的代码进行了压缩优化，并生成必要的 `Source Map` 文件
+- 用 `Gulp` 编译
+
+### [hodal/winv](https://github.com/phodal/winv)
+
+![star](https://img.shields.io/github/stars/phodal/winv.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/phodal/winv.svg?style=social&label=Fork)
+
+WINA: A mini MINA framework for fun
+
+#### 基本的设计点：
+
+- 兼容微信小程序的语法——它并没有多少复杂的语法。只是简单的Virtual DOM操作，以及事件绑定
+- 尽可能兼容大部分的微信API，兼容所有的微信API几乎是不可能的。
+- 提供一个 `Virtual DOM` 转换的混合应用插件。
+
+#### MINA框架的基本原理，类似组件组件
+
+- WXML转JSON Virtual DOM组件
+- Virtual DOM组件，并在这其中提供双向绑定
+- UI组件转换器，即将WXML转换为Web浏览器中的标签
+- UI组件，需要有一套UI组件，最好是和小程序保持一致，如WEUI
+- AMD组件，提供模块化需求
+- APP引擎，需要有Page模块和APP模块，来处理页面逻辑，还有Route。
+
+### 轻量级库
 
 - [小程序Redux绑定库](https://github.com/charleyw/wechat-weapp-redux)
 
   微信小程序Redux绑定，用于在微信小程序为页面绑定Redux Store
 
-- [微信小程序 StartKit(Gulp + Babel + Sass)](https://github.com/zarknight/wxapp-startkit)
 

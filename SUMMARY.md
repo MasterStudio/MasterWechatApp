@@ -21,6 +21,7 @@
 * [轮子](module/README.md)
   * [框架](module/module_framework.md)
   * [UI组件](module/module_ui.md)
+  * [库](module/module_library.md)
 * [案例](demo/README.md)
   * [HelloWorld](demo/demo_hello_world.md)
   * [电商类](demo/demo_ebiz.md)
