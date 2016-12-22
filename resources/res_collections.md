@@ -60,3 +60,7 @@
 持续更新中.......
 
 #### [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
+
+#### [精选微信小程序组件插件，优秀组件插件集合](https://weappdev.com/t/topic/500)
+
+#### [精选最新开源的微信小程序汇总:长期更新中](https://weappdev.com/t/topic/59)

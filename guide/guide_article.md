@@ -74,6 +74,7 @@
 ### 优秀产品
 
 - [揭秘：腾讯内部首个被张小龙点赞的小程序是怎么开发出来的？(自选股)](http://36kr.com/p/5058174.html)
+- [小程序上手体验：我们做了一款，让你极速查公交](http://mp.weixin.qq.com/s?__biz=MzI4ODUxNTczMA==&mid=2247483802&idx=1&sn=c3349ef305786faec1d5a7a6b28ac778)
 
 ### 运营
 

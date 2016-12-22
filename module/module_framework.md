@@ -4,7 +4,8 @@
 
 ### [Labrador](https://github.com/maichong/labrador)
 
-![npm version](https://badge.fury.io/js/labrador.svg) ![Dependency Status](https://david-dm.org/maichong/labrador.svg)
+[![npm](https://img.shields.io/npm/v/labrador.svg)](https://www.npmjs.com/package/labrador)
+ ![Dependency Status](https://david-dm.org/maichong/labrador.svg)
 
 ![star](https://img.shields.io/github/stars/maichong/labrador.svg?style=social&label=Star)
 ![fork](https://img.shields.io/github/forks/maichong/labrador.svg?style=social&label=Fork)
@@ -31,7 +32,8 @@ Labrador 支持ES6/7的微信小程序组件化开发框架
 
 ### [wepy](https://github.com/wepyjs/wepy)
 
-![npm version](https://badge.fury.io/js/wepy.svg) ![travis-ci](https://travis-ci.org/wepyjs/wepy.svg?branch=master) ![Coverage Status](https://coveralls.io/repos/github/wepyjs/wepy/badge.svg?branch=master) ![Dependency Status](https://david-dm.org/wepyjs/wepy.svg)
+[![npm](https://img.shields.io/npm/v/wepy.svg)](https://www.npmjs.com/package/wepy)
+![travis-ci](https://travis-ci.org/wepyjs/wepy.svg?branch=master) ![Coverage Status](https://coveralls.io/repos/github/wepyjs/wepy/badge.svg?branch=master) ![Dependency Status](https://david-dm.org/wepyjs/wepy.svg)
 
 ![star](https://img.shields.io/github/stars/wepyjs/wepy.svg?style=social&label=Star)
 ![fork](https://img.shields.io/github/forks/wepyjs/wepy.svg?style=social&label=Fork)

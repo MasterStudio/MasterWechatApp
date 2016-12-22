@@ -6,3 +6,4 @@
 - [青雀论坛](http://bbs.larkapp.com/)
 - [知晓程序](https://minapp.com/article/)
 - [微信小程序社区](http://www.mntuku.cn/)
+- [微信小程序Club](http://www.wxappclub.com/)

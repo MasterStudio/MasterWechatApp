@@ -1,4 +1,4 @@
-# MasterWechatApp ![master_bandage](https://cdn.rawgit.com/MasterStudio/MasterCenter/master/badge.svg) 
+# 微信小程序征服指南 ![master_bandage](https://cdn.rawgit.com/MasterStudio/MasterCenter/master/badge.svg) 
 [![Build Status](https://travis-ci.org/MasterStudio/MasterWechatApp.svg?branch=master)](https://travis-ci.org/MasterStudio/MasterWechatApp)
 
 微信小程序优秀资源汇总

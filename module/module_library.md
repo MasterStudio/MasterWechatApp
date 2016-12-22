@@ -2,11 +2,30 @@
 
 ### IO 相关
 
+#### [SocketIO](https://github.com/fanweixiao/wxapp-socket-io)
+
+微信小程序的 Socket.io client 实现，压缩之后体积为 16K
+
+[![npm](https://img.shields.io/npm/v/wxapp-socket-io.svg)](https://www.npmjs.com/package/wxapp-socket-io)
+![star](https://img.shields.io/github/stars/fanweixiao/wxapp-socket-io.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/fanweixiao/wxapp-socket-io.svg?style=social&label=Fork)
+
 #### [Polyfill](https://github.com/leancloud/weapp-polyfill)
 
-[![npm](https://img.shields.io/npm/v/weapp-polyfill.svg?style=flat-square)](https://www.npmjs.com/package/weapp-polyfill)
+[![npm](https://img.shields.io/npm/v/weapp-polyfill.svg)](https://www.npmjs.com/package/weapp-polyfill)
+![star](https://img.shields.io/github/stars/leancloud/weapp-polyfill.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/leancloud/weapp-polyfill.svg?style=social&label=Fork)
 
 Polyfills for w3c API on top of Weapp API
+
+### 消息总线
+
+#### [WxNotificationCenter](https://github.com/icindy/WxNotificationCenter)
+
+![star](https://img.shields.io/github/stars/icindy/WxNotificationCenter.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/icindy/WxNotificationCenter.svg?style=social&label=Fork)
+
+微信小程序通知广播模式类,降低小程序开发的耦合度
 
 ### Redux
 
@@ -14,4 +33,8 @@ Polyfills for w3c API on top of Weapp API
 
 微信小程序Redux绑定，用于在微信小程序为页面绑定Redux Store
 
+### 其他
 
+#### [CFETeam/weapp-session](https://github.com/CFETeam/weapp-session)
+
+为微信小程序提供会话管理功能
