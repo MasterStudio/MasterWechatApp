@@ -1,3 +1,24 @@
 {
-    
+    "title": "微信小程序征服指南",
+    "description": "微信小程序优秀资源汇总",
+    "language": "zh",
+    "plugins": [
+        "page-toc",
+        "splitter",
+        "github-buttons",
+        "duoshuo"
+    ],
+    "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "masterwechatapp",
+            "theme": "default"
+        },
+        "github-buttons": {
+            "repo": "MasterStudio/MasterWechatApp",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        }
+    }
 }

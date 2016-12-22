@@ -38,6 +38,20 @@ Labrador 支持ES6/7的微信小程序组件化开发框架
 
 [官方文档](https://wepyjs.github.io/wepy)
 
+#### 功能点
+
+- 开发模式转换：在原有的小程序的开发模式下进行再次封装，更贴近于现有 `MVVM` 框架开发模式
+- 支持 `组件化` 开发
+- 支持加载外部 `NPM` 包
+- 单文件模式，使得目录结构更加清晰
+- 默认使用 `babel` 编译，支持 `ES6/7` 的一些新特性
+- 针对原生 `API` 进行优化：对现在API进行 `promise` 处理，同时修复一些现有API的缺陷
+- 进阶说明
+
+#### 相关文章
+
+- [打造“微信小程序”组件化开发框架 (腾讯Bugly)](http://mp.weixin.qq.com/s/2nQzsuqq7Avgs8wsRizUhw)
+
 ## 其他
 
 ### [Weapp-boilerplate](https://github.com/zce/weapp-boilerplate)
@@ -86,13 +100,13 @@ Labrador 支持ES6/7的微信小程序组件化开发框架
 
 WINA: A mini MINA framework for fun
 
-#### 基本的设计点：
+#### 功能点
 
 - 兼容微信小程序的语法——它并没有多少复杂的语法。只是简单的Virtual DOM操作，以及事件绑定
 - 尽可能兼容大部分的微信API，兼容所有的微信API几乎是不可能的。
 - 提供一个 `Virtual DOM` 转换的混合应用插件。
 
-#### MINA框架的基本原理，类似组件组件
+#### 基本原理
 
 - WXML转JSON Virtual DOM组件
 - Virtual DOM组件，并在这其中提供双向绑定

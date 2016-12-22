@@ -7,7 +7,7 @@
 
 Github 仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp)
 
-在线阅读 (Github Pages)：[master-wang.github.io/MasterWechatApp/](https://masterstudio.github.io/MasterWechatApp/)
+在线阅读 (Github Pages)：[masterstudio.github.io/MasterWechatApp/](https://masterstudio.github.io/MasterWechatApp/)
 
 在线阅读 (Gitbook)：[master-wang.gitbooks.io/MasterWechatApp/](https://master-wang.gitbooks.io/MasterWechatApp/)
 

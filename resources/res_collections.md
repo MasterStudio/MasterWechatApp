@@ -44,4 +44,19 @@
 
 ### 项目汇总
 
-- [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
+#### [小程序优秀源码汇总](https://github.com/qiushi123/xiaochengxu_demos)
+
+![star](https://img.shields.io/github/stars/qiushi123/xiaochengxu_demos.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/qiushi123/xiaochengxu_demos.svg?style=social&label=Fork)
+
+目录：
+
+- 实现底部导航栏和顶部导航栏
+- 小程序自学系列（零基础学小程序）---小程序实现简单的倒计时效果
+- 小程序自学系列（零基础学小程序）---小程序实现电商秒杀倒计时效果
+- 小程序自学系列（优秀源码004）---小程序实现大转盘抽奖效果，跑马灯效果
+- 小程序自学系列（优秀源码005）---小程序开发之视频播放器带弹幕Video 弹幕颜色自定义
+
+持续更新中.......
+
+#### [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
