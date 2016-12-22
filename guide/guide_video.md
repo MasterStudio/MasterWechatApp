@@ -17,6 +17,12 @@
 - [微信小程序进阶实战之影评应用开发](http://www.jikexueyuan.com/zhiye/course/48.html?type=16)
 - [微信小程序进阶实战之分答应用开发](http://www.jikexueyuan.com/zhiye/course/47.html?type=16)
 
+### QQ课堂
+
+- [免费：微信小程序全方位深度解析【蓝鸥】（33讲）](https://ke.qq.com/course/161221)
+- [免费：微信小程序开实战教程【国炬IT培训】（5讲）](https://ke.qq.com/course/172343)
+- [免费：领跑微信小程序开发【软谋教育】（5讲）](https://ke.qq.com/course/163029)
+
 ### 51CTO
 
 - [51CTO - 微信小程序新手入门](http://edu.51cto.com/course/course_id-7242.html)
