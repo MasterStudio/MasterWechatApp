@@ -41,7 +41,7 @@ Github 仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/M
   - [新闻资讯类](demo/demo_news.md)   `/demo/demo_news.md`
   - [社交聊天类](demo/demo_im.md)   `/demo/demo_im.md`
   - [照片墙](demo/demo_photo_wall.md)   `/demo/demo_photo_wall.md`
-  - [地图定位](demo/demo_lbs.md)   `/demo/demo_lbs.md`
+  - [地图出行LBS](demo/demo_lbs.md)   `/demo/demo_lbs.md`
   - [多媒体](demo/demo_multi_media.md)   `/demo/demo_multi_media.md`
   - [游戏](demo/demo_game.md)   `/demo/demo_game.md`
   - [生活工具](demo/demo_tools.md)   `/demo/demo_tools.md`

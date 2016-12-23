@@ -26,6 +26,7 @@
 ### Demo
 
 - [微信小程序“信用卡还款”项目实践 (Bugly)](http://dev.qq.com/topic/58212d0fa7a7574c4f4cc3c5)
+- [滴滴出行在小程序的实践](http://download.csdn.net/index.php/mobile/meeting/speech_preview/171)
 - [零基础学开发，她做了款「仿知乎」小程序](http://www.ifanr.com/minapp/751058)
 - [微信小程序之仿微信漂流瓶](http://blog.csdn.net/qq_31383345/article/details/53447403)
 - [给选择困难症患者的微信小程序——电影日历](https://zhuanlan.zhihu.com/p/24262795)

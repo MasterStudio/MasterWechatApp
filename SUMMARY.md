@@ -28,7 +28,7 @@
   * [新闻资讯类](demo/demo_news.md)
   * [聊天社交类](demo/demo_im.md)
   * [照片墙](demo/demo_photo_wall.md)
-  * [地图定位](demo/demo_lbs.md)
+  * [地图出行LBS](demo/demo_lbs.md)
   * [多媒体](demo/demo_multi_media.md)
   * [游戏](demo/demo_game.md)
   * [生活工具](demo/demo_tools.md)
