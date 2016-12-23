@@ -1,4 +1,4 @@
-## DEMO —— 游戏类
+## 游戏类
 
 ### [2048](https://github.com/natee/wxapp-2048)
 
@@ -28,3 +28,15 @@
 - 偷猪功能：可以偷好友的猪（未完成）
 
 ![PigRaising](https://raw.githubusercontent.com/samrayleung/wechat_pit_images/master/assets/img/PigRaising.gif)
+
+### [仿微信漂流瓶](http://www.zggsby.com/qq_31383345/article/details/53447403)
+
+技术点:
+
+- 用 `leancloud` 做后台，涉及到语音和文字的储存、查询
+- [录音机 音频播放 动画 (真机可用)](http://www.zggsby.com/qq_31383345/article/details/53358267)
+- [用户系统 一键登录 获取session_key 和 openid](http://www.zggsby.com/qq_31383345/article/details/53193490)
+- [常见问题 不在以下合法域名列表中 wx.request合法域名配置](http://www.zggsby.com/qq_31383345/article/details/53193382)
+- [本地图片上传(leancloud)](http://www.zggsby.com/qq_31383345/article/details/53015683)
+
+![漂流瓶](http://img.my.csdn.net/uploads/201612/03/1480766388_6772.gif)

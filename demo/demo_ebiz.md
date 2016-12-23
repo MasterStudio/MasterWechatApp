@@ -1,4 +1,4 @@
-## DEMO —— 电商类
+## 电商团购类
 
 ### 手把手教你开发电商类小程序
 
@@ -40,6 +40,17 @@
 ![chart2](https://raw.githubusercontent.com/SeptemberMaples/wechat-weapp-demo/master/demo2.png)
 
 
+### [微票](https://github.com/wangmingjob/weapp-weipiao)
+
+![star](https://img.shields.io/github/stars/wangmingjob/weapp-weipiao.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/wangmingjob/weapp-weipiao.svg?style=social&label=Fork)
+
+实现一个小程序版微票
+
+<img src="https://raw.githubusercontent.com/wangmingjob/weapp-weipiao/master/screenshots/01.png" width="345px" />
+<img src="https://raw.githubusercontent.com/wangmingjob/weapp-weipiao/master/screenshots/02.png" width="345px"/>
+<img src="https://raw.githubusercontent.com/wangmingjob/weapp-weipiao/master/screenshots/03.png" width="345px"/>
+
 ### [巴爷供销社－电商平台](https://github.com/bayetech/wechat_mall_applet)
 
 ![star](https://img.shields.io/github/stars/bayetech/wechat_mall_applet.svg?style=social&label=Star)
@@ -53,6 +64,7 @@
 - 加入购物车，编辑收货地址
 - 通过API与后端通信（获取商品列表、提交订单）
 
-![a](http://although2013.com/images/wechat_applet_1.png)
-![a](http://although2013.com/images/wechat_applet_2.png)
-![a](http://although2013.com/images/wechat_applet_3.png)
+<img src="http://although2013.com/images/wechat_applet_1.png" width="345px" />
+<img src="http://although2013.com/images/wechat_applet_2.png" width="345px" />
+<img src="http://although2013.com/images/wechat_applet_3.png" width="345px" />
+

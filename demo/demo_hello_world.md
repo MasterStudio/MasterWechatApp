@@ -18,3 +18,15 @@
 
 从“微信Web开发者”工具中拷贝出来的，路径 app/dist/weapp/quick
 
+### [从FlexLayout布局开始](https://github.com/hardog/wechat-app-flexlayout)
+
+![star](https://img.shields.io/github/stars/hardog/wechat-app-flexlayout.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/hardog/wechat-app-flexlayout.svg?style=social&label=Fork)
+
+豆瓣电影
+
+![effect](http://hardog.net/images/assist/20160930/wechat-effect-app-xM.gif)
+
+TinyMonit 集群监控 Wechat app实现
+
+![tm-wechat](http://hardog.net/images/assist/20161008/tm-wechat-example.gif)

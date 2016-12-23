@@ -22,16 +22,22 @@
 - [一张图看微信小程序(前端之路 - DRY)](http://zhenhua-lee.github.io/manmage/wx.html)
 - [“小程序”来了，前端学习路径](https://zhuanlan.zhihu.com/p/22582893)
 
+
 ### Demo
 
+- [微信小程序“信用卡还款”项目实践 (Bugly)](http://dev.qq.com/topic/58212d0fa7a7574c4f4cc3c5)
 - [零基础学开发，她做了款「仿知乎」小程序](http://www.ifanr.com/minapp/751058)
 - [微信小程序之仿微信漂流瓶](http://blog.csdn.net/qq_31383345/article/details/53447403)
+- [给选择困难症患者的微信小程序——电影日历](https://zhuanlan.zhihu.com/p/24262795)
+
 
 ### 填坑
 
 - [一名Android开发者的微信小程序填坑之路(1)](http://blog.csdn.net/luoyanglizi/article/details/52681245)
 - [一名Android开发者的微信小程序填坑之路(2)](http://blog.csdn.net/luoyanglizi/article/details/52797856)
 - [小程序的坑在哪里？](https://mp.weixin.qq.com/s?__biz=MzI2ODU2MzIxNQ==&mid=2247483663&idx=1&sn=8bea89340df5ccad5e42d2f6ac168486)
+- [「微信小程序」入坑总结](http://www.ahonn.me/2016/11/14/wechat-app-summary/)
+- [高仿QQ微信小程序，我趟过的坑](http://blog.csdn.net/xiehuimx/article/details/52005355)
 
 ## 进阶
 
