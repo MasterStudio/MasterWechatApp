@@ -1,15 +1,15 @@
 # 微信小程序征服指南 [![Awesome](https://cdn.rawgit.com/MasterStudio/MasterCenter/master/badge.svg)](https://github.com/MasterStudio/MasterCenter) 
 [![Build Status](https://travis-ci.org/MasterStudio/MasterWechatApp.svg?branch=master)](https://travis-ci.org/MasterStudio/MasterWechatApp)
 
-微信小程序优秀资源汇总
+『微信小程序』优秀资源、轮子、开源项目 汇总
 
 ## 本项目地址
 
 Github 仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp)
 
-在线阅读 (Github Pages)：[masterstudio.github.io/MasterWechatApp/](https://masterstudio.github.io/MasterWechatApp/)
+Pages 在线阅读 (速度较快)：[weapp.masterstudio.tech](http://weapp.masterstudio.tech/)
 
-在线阅读 (Gitbook)：[master-wang.gitbooks.io/MasterWechatApp/](https://master-wang.gitbooks.io/MasterWechatApp/)
+Gitbook 在线阅读 (需要翻墙)：[master-wang.gitbooks.io/MasterWechatApp/](https://master-wang.gitbooks.io/MasterWechatApp/)
 
 
 ## 目录索引
