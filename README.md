@@ -20,6 +20,8 @@ Gitbook 在线阅读 (速度较慢，需要翻墙)：[master-wang.gitbooks.io/Ma
 
 贡献项目的话可以给我提 `issue`。或者 `fork` 下来，直接进入对应 `.md` 文件编辑（根据下面的目录），然后给我提交 `PullRequest`
 
+PS: 本 Gitbook 通过 [Travis.ci](https://travis-ci.org/MasterStudio/MasterWechatApp) 进行持续集成，在 `master` 分支修改源文档，即可自动化编译+部署，在 `gh-pages` 分支生成对应静态页面。
+
 ## 目录索引
 
 - [文档](doc/README.md)  `/doc/README.md`
