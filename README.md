@@ -1,7 +1,8 @@
-# 微信小程序征服指南 [![Awesome](https://cdn.rawgit.com/MasterStudio/MasterCenter/master/badge.svg)](https://github.com/MasterStudio/MasterCenter) 
+# 微信小程序征服指南 [![Awesome](https://cdn.rawgit.com/MasterStudio/MasterCenter/master/badge.svg)](https://github.com/MasterStudio/MasterCenter)
+
 [![Build Status](https://travis-ci.org/MasterStudio/MasterWechatApp.svg?branch=master)](https://travis-ci.org/MasterStudio/MasterWechatApp)
 
-『微信小程序』优秀资源、轮子、开源项目 汇总
+『微信小程序』优秀教程、轮子、开源项目 资源汇总
 
 ## 本项目地址
 
@@ -9,8 +10,15 @@ Github 仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/M
 
 Pages 在线阅读 (速度较快)：[weapp.masterstudio.tech](http://weapp.masterstudio.tech/)
 
-Gitbook 在线阅读 (需要翻墙)：[master-wang.gitbooks.io/MasterWechatApp/](https://master-wang.gitbooks.io/MasterWechatApp/)
+Gitbook 在线阅读 (速度较慢，需要翻墙)：[master-wang.gitbooks.io/MasterWechatApp/](https://master-wang.gitbooks.io/MasterWechatApp/)
 
+## 贡献指南
+
+本项目是通过 [Gitbook](https://github.com/MasterStudio/MasterGitbook) 来发布，文章统一通过 [Markdown](http://www.jianshu.com/p/q81RER) 语法编辑
+
+欢迎大家贡献自己优秀的 `文章`、`教程`、`轮子` 以及 `酷炫的Demo` 😋
+
+贡献项目的话可以给我提 `issue`。或者 `fork` 下来，直接进入对应 `.md` 文件编辑（根据下面的目录），然后给我提交 `PullRequest`
 
 ## 目录索引
 
