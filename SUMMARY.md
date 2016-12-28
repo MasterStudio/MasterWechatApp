@@ -2,20 +2,16 @@
 
 * [简介](README.md)
 * [文档](doc/README.md)
-  * [介绍](doc/doc_intro.md)
-  * [设计](doc/doc_design.md)
   * [开发](doc/doc_develop.md)
-  * [运营](doc/doc_operation.md)
+  * [设计与运营](doc/doc_design_operation.md)
   * [云端](doc/doc_cloud.md)
 * [工具](tools/README.md)
   * [IDE](tools/tools_ide.md)
-  * [插件](tools/tools_plugins.md)
-  * [小工具](tools/tools_gadget.md)
+  * [插件及其他](tools/tools_plugin_other.md)
 * 资源
   * [合集](resources/res_collections.md)
   * [网站](resources/res_website.md)
 * 教程
-  * [博客](guide/guide_blog.md)
   * [文章](guide/guide_article.md)
   * [视频](guide/guide_video.md)
 * 轮子

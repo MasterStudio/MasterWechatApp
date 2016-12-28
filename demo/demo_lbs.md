@@ -25,3 +25,19 @@
 - Write in ECMAScript 2015 (ES6)
     ESLint with [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - Use `rpx` unit
+
+## 运动类
+
+### [跑步小程序——悦跑圈](https://github.com/alanwangmodify/weChatApp-Run)
+
+![star](https://img.shields.io/github/stars/alanwangmodify/weChatApp-Run.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/alanwangmodify/weChatApp-Run.svg?style=social&label=Fork)
+
+这是一个微信小程序Demo，主要功能是跑步。 现在还不够完善依然有很多问题，欢迎大家提出建议和意见。
+
+[相关文章——从零开始制作一个跑步微信小程序](https://joyrun.github.io/2016/12/28/xiaochengxu/)
+
+![悦跑圈1](https://raw.githubusercontent.com/alanwangmodify/weChatApp-Run/master/pic/home.png)
+![悦跑圈2](https://raw.githubusercontent.com/alanwangmodify/weChatApp-Run/master/pic/run.png)
+![悦跑圈3](https://raw.githubusercontent.com/alanwangmodify/weChatApp-Run/master/pic/slideback.png)
+![悦跑圈4](https://raw.githubusercontent.com/alanwangmodify/weChatApp-Run/master/pic/slide.png)

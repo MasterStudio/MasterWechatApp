@@ -2,12 +2,15 @@
 
 ## 入门
 
-- 首个微信小程序开发教程，通宵吐血写的
-  - [第一弹](http://blog.jobbole.com/106049/)
-  - [第二弹](http://blog.jobbole.com/106098/)
-  - [第三弹](http://blog.jobbole.com/106107/)
-  - [第四弹](http://blog.jobbole.com/106105/)
-  - [第五弹](http://blog.jobbole.com/106162/)
+- 全球首个微信小程序开发教程，通宵吐血写的！
+  - [第一弹：序言、准备工作、项目构架](http://www.diycode.cc/topics/311)
+  - [第二弹：项目结构以及配置、首页面开发](http://www.diycode.cc/topics/312)
+  - [第三弹：名片夹详情页、「名片盒」「我」的页面](http://www.diycode.cc/topics/316)
+  - [第四弹：编辑名片页面](http://www.diycode.cc/topics/325)
+  - [第五弹：分组开发、左滑功能](http://www.diycode.cc/topics/328)
+  - [第六弹：拍照收纳、删除名片等](http://www.diycode.cc/topics/332)
+  - [番外篇：小程序 DEMO 视频](http://www.diycode.cc/topics/347)
+  - [开发问答第一弹](http://www.diycode.cc/topics/329)
 - [微信小程序开发教程！](http://xituqu.com/508.html)
 - [微信小程序怎么开发？玩物志用一个上午上线了电商应用(爱范儿)](http://www.ifanr.com/721124)
 - [微信小程序开发教程-从零开始](http://www.jianshu.com/p/aaef5ceb3936)
@@ -30,7 +33,7 @@
 - [零基础学开发，她做了款「仿知乎」小程序](http://www.ifanr.com/minapp/751058)
 - [微信小程序之仿微信漂流瓶](http://blog.csdn.net/qq_31383345/article/details/53447403)
 - [给选择困难症患者的微信小程序——电影日历](https://zhuanlan.zhihu.com/p/24262795)
-
+- [微信小程序-从零开始制作一个跑步微信小程序](https://joyrun.github.io/2016/12/28/xiaochengxu/)
 
 ### 填坑
 
@@ -48,9 +51,17 @@
 
 ### 架构分析
 
-- [微信小程序架构分析 (上)](https://zhuanlan.zhihu.com/p/22754296)
-- [微信小程序架构分析 (中)](https://zhuanlan.zhihu.com/p/22765476)
-- [微信小程序架构分析 (下)](https://zhuanlan.zhihu.com/p/22932309)
+- 微信小程序架构分析(知乎专栏)
+  - [（上）调试技巧、主要模块构成、模块间通信、设计理念分析](https://zhuanlan.zhihu.com/p/22754296)
+  - [（中）View 模块和 Service 模块是如何构成的](https://zhuanlan.zhihu.com/p/22765476)
+  - [（下）小程序 web 服务实现、实现小程序实时更新](https://zhuanlan.zhihu.com/p/22932309)
+- 微信小程序剖析(微信公众号)
+  - [「官方示例代码」浅析](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974082&idx=1&sn=47c7f672caf629cd846e315b8df2b1c5&scene=21#wechat_redirect)
+  - [（一）运行机制](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974093&idx=1&sn=0570a243304ea8bb7d1b636624886fb1&scene=21#wechat_redirect)
+  - [（二）框架原理](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974111&idx=1&sn=93a868cdb59b5dd77c65c7a5303e6e31#rd)
+  - [（三）让小程序运行在Chrome浏览器上](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974133&idx=1&sn=3b67419e8ac0bb8262ca4c1e3cdabb35#rd)
+  - [（四）原生的实时DOM转Virtual DOM](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974146&idx=1&sn=52041fdca4245e8f4b670ed20efa77de#rd)
+  - [（五）创建一个兼容「微信小程序」的Web框架](http://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652974149&idx=1&sn=3efe5e6ee479ad6cbddc0a607cd40411#rd)
 - [微信小程序剖析 | 运行机制及框架原理(前端之巅)](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484316&idx=1&sn=463bbea1626458beb30f55ce155b4983&chksm=9723615ea054e848497c3b72e5264d99c9230144bd21862c508211085bf93b71078cc2fc1fc5&mpshare=1&scene=1&srcid=1013yiCsz6WNYwpKs2UDYuOO#rd)
 - [关于微信小程序（应用号）的底层逻辑分析和拥抱建议(知乎专栏)](https://zhuanlan.zhihu.com/p/22565340)
 

@@ -41,3 +41,29 @@
 它可以帮你完成重复机械无趣麻烦的绑定方法的过程，自动的将需要新建的方法注入到 js 文件中去。
 
 ![Matchmaker](https://raw.githubusercontent.com/lypeer/Matchmaker/master/gif/plugin.gif)
+
+## 在线工具
+
+### [小程序配置目录在线生成](https://weapptool.com)
+
+微信小程序配置及目录在线生成工具
+
+### [wxml-parser](https://github.com/seanlong/wxml-parser)
+
+![star](https://img.shields.io/github/stars/seanlong/wxml-parser.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/seanlong/wxml-parser.svg?style=social&label=Fork)
+
+这是一个微信小程序 `WXML` 文件的 `JavaScript parser` 实现。输出微信官方提供的 `native` 可执行文件类似的数据结构。
+该数据可以被后续微信小程序的 `Virtual DOM generator` 生成真实 `DOM`。
+
+目前版本支持除了模板和模板引用外的基本语法。
+
+[在线页面demo](https://seanlong.github.io/wxapp-page-editor)
+
+### [px/rpx互转工具](https://github.com/allanguys/px2rpx)
+
+![star](https://img.shields.io/github/stars/allanguys/px2rpx.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/allanguys/px2rpx.svg?style=social&label=Fork)
+
+[在线页面工具](http://allan.febattery.com/px2rpx/)
+

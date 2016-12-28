@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/MasterStudio/MasterWechatApp.svg?branch=master)](https://travis-ci.org/MasterStudio/MasterWechatApp)
 
-『微信小程序』优秀教程、轮子、开源项目 资源汇总
+『微信小程序』优秀教程、轮子、开源项目 资源汇总，长期维护更新中...
 
 ## 本项目地址
 
@@ -10,7 +10,7 @@ Github 仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/M
 
 Pages 在线阅读 (速度较快)：[weapp.masterstudio.tech](http://weapp.masterstudio.tech/)
 
-Gitbook 在线阅读 (速度较慢，需要翻墙)：[master-wang.gitbooks.io/MasterWechatApp/](https://master-wang.gitbooks.io/MasterWechatApp/)
+Gitbook 在线阅读 (速度较慢，需翻墙，可下PDF电子书)：[master-wang.gitbooks.io/MasterWechatApp/](https://master-wang.gitbooks.io/MasterWechatApp/)
 
 ## 贡献指南
 
@@ -20,25 +20,21 @@ Gitbook 在线阅读 (速度较慢，需要翻墙)：[master-wang.gitbooks.io/Ma
 
 贡献项目的话可以给我提 `issue`。或者 `fork` 下来，直接进入对应 `.md` 文件编辑（根据下面的目录），然后给我提交 `PullRequest`
 
-PS: 本 Gitbook 通过 [Travis.ci](https://travis-ci.org/MasterStudio/MasterWechatApp) 进行持续集成，在 `master` 分支修改源文档，即可自动化编译+部署，在 `gh-pages` 分支生成对应静态页面。
+> 本项目通过 [Travis.ci](https://travis-ci.org/MasterStudio/MasterWechatApp) 进行持续集成，在 `master` 分支修改源文档，即可自动化编译+部署，push 到 GitHub 的 `gh-pages` 分支 以及 Coding.net 的 `coding-pages` 分支，生成对应静态页面。再通过进行按地域 `CNAME` 分发跳转。
 
 ## 目录索引
 
 - [文档](doc/README.md)  `/doc/README.md`
-  - [介绍](doc/doc_intro.md)  `/doc/doc_intro.md`
-  - [设计](doc/doc_design.md) `/doc/doc_design.md`
   - [开发](doc/doc_develop.md)    `/doc/doc_develop.md`
-  - [运营](doc/doc_operation.md)  `/doc/doc_operation.md`
+  - [设计与运营](doc/doc_design_operation.md)  `/doc/doc_design_operation.md`
   - [云端](doc/doc_cloud.md) `/doc/doc_cloud.md`
 - [工具](tools/README.md) `/tools/README.md`
   - [IDE](tools/tools_ide.md)   `/tools/tools_ide.md`
-  - [插件](tools/tools_plugins.md)  `/tools/tools_plugins.md`
-  - [小工具](tools/tools_gadget.md)  `/tools/tools_gadget.md`
+  - [插件及其他](tools/tools_plugin_other.md)  `/tools/tools_plugin_other.md`
 - [资源](resources/README.md)  `/resources/README.md`
   - [合集](resources/res_collections.md)  `/resources/res_collections.md`
   - [网站](resources/res_website.md)  `/resources/res_website.md`
 - [教程](guide/README.md)  `/guide/README.md`
-  - [博客](guide/guide_blog.md)  `/guide/guide_blog.md`
   - [文章](guide/guide_article.md)  `/guide/guide_article.md`
   - [视频](guide/guide_video.md)  `/guide/guide_video.md`
 - [轮子](module/README.md)  `/module/README.md`
@@ -56,4 +52,14 @@ PS: 本 Gitbook 通过 [Travis.ci](https://travis-ci.org/MasterStudio/MasterWech
   - [游戏](demo/demo_game.md)   `/demo/demo_game.md`
   - [生活工具](demo/demo_tools.md)   `/demo/demo_tools.md`
   - [其他](demo/demo_other.md)   `/demo/demo_other.md`
+
+## 联系我们
+
+欢迎加入 `QQ群` 和 `微信群`
+
+### QQ群
+
+
+
+### 微信群
 
