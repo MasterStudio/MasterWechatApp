@@ -37,10 +37,12 @@
 灵动电商开源系统之微信小程序端
 
 `LXStepper` 组件，用于购物车商品数量的加减：
+
 ![LXStepper](https://static.oschina.net/uploads/img/201610/27155649_MeBK.gif)
 
 `LXCheckboxGroup` 复选框：
-![LXCheckboxGroup](https://static.oschina.net/uploads/img/201610/11160900_Cd0j.gif)
+
+![LXCheckboxGroup](https://static.oschina.net/uploads/img/201610/11160611_0TSe.png)
 
 
 ### [购物车DEMO](https://github.com/SeptemberMaples/wechat-weapp-demo)
