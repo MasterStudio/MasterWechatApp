@@ -6,6 +6,7 @@
 - [Vol.2：列表加载](http://www.ifanr.com/minapp/747115)
 - [Vol.3：数据加载和图文排版](http://www.ifanr.com/technotes/752901)
 
+
 ### [仿手机淘宝](https://github.com/ChangQing666/wechat-weapp-taobao)
 
 ![star](https://img.shields.io/github/stars/ChangQing666/wechat-weapp-taobao.svg?style=social&label=Star)
@@ -15,6 +16,7 @@
 
 ![taobao1](https://raw.githubusercontent.com/ChangQing666/wechat-weapp-taobao/master/image/weapp_taobao_home.png)
 ![taobao2](https://raw.githubusercontent.com/ChangQing666/wechat-weapp-taobao/master/image/weapp_taobao_2.png)
+
 
 ### [移动端商城](https://github.com/liuxuanqiang/wechat-weapp-mall)
 
@@ -28,6 +30,18 @@
 ![mall3](https://raw.githubusercontent.com/liuxuanqiang/wechat-weapp-mall/master/images/screenshots/screenshorts-03.png)
 ![mall4](https://raw.githubusercontent.com/liuxuanqiang/wechat-weapp-mall/master/images/screenshots/screenshorts-04.png)
 ![mall5](https://raw.githubusercontent.com/liuxuanqiang/wechat-weapp-mall/master/images/screenshots/screenshorts-05.png)
+
+
+### [灵动电商](http://git.oschina.net/dotton/lendoo-wx)
+
+灵动电商开源系统之微信小程序端
+
+`LXStepper` 组件，用于购物车商品数量的加减：
+![LXStepper](https://static.oschina.net/uploads/img/201610/27155649_MeBK.gif)
+
+`LXCheckboxGroup` 复选框：
+![LXCheckboxGroup](https://static.oschina.net/uploads/img/201610/11160900_Cd0j.gif)
+
 
 ### [购物车DEMO](https://github.com/SeptemberMaples/wechat-weapp-demo)
 
@@ -50,6 +64,7 @@
 <img src="https://raw.githubusercontent.com/wangmingjob/weapp-weipiao/master/screenshots/01.png" width="345px" />
 <img src="https://raw.githubusercontent.com/wangmingjob/weapp-weipiao/master/screenshots/02.png" width="345px"/>
 <img src="https://raw.githubusercontent.com/wangmingjob/weapp-weipiao/master/screenshots/03.png" width="345px"/>
+
 
 ### [巴爷供销社－电商平台](https://github.com/bayetech/wechat_mall_applet)
 

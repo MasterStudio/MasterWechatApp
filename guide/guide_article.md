@@ -35,6 +35,12 @@
 - [给选择困难症患者的微信小程序——电影日历](https://zhuanlan.zhihu.com/p/24262795)
 - [微信小程序-从零开始制作一个跑步微信小程序](https://joyrun.github.io/2016/12/28/xiaochengxu/)
 
+### 动画绘图
+
+- [滴滴微信小程序实例：动画案例之圆点沿着圆圈运动](https://zhuanlan.zhihu.com/p/24347300)
+- [微信小程序 Canvas](http://www.itdadao.com/articles/c15a874362p0.html)
+- [微信小程序之『仿QQ消息气泡拖拽消失』](https://gold.xitu.io/post/58628cba1b69e6006ceaa145)
+
 ### 填坑
 
 - [一名Android开发者的微信小程序填坑之路(1)](http://blog.csdn.net/luoyanglizi/article/details/52681245)
@@ -48,6 +54,7 @@
 - [微信小程序，一个有局限的类似 React Native 轮子](http://www.jianshu.com/p/060c6f3dd4e8)
 - [微信小程序集成Redux(Segmentfault)](https://segmentfault.com/a/1190000007107646)
 - [微信小程序和谷歌PWA有什么关系？(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652039482&idx=2&sn=778e1313ebbd832b590b81a8088b63db#rd)
+- [使用ES6新特性开发微信小程序（1）](http://mp.weixin.qq.com/s?__biz=MzI0ODU5Mzg0NA==&mid=2247483658&idx=1&sn=5461f829c6bca653d2c1aea04dbf924d)
 
 ### 架构分析
 
@@ -76,9 +83,16 @@
 
 ## 讨论
 
+### 官方
+
+- [微信公开课：张小龙首次全面阐述小程序，定档1月9日上线（内附演讲全文）](http://mp.weixin.qq.com/s?__biz=MjM5NTE4Njc4NQ==&mid=2657611912&idx=1&sn=f91c228764f9a3b4ed696276fae1ee1b)
+- [视频实录丨张小龙全面阐述微信小程序](http://daxue.qq.com/content/content/id/3109)
+
 ### 会议
 
 - [微信小程序首次官方分享的纪要](http://mp.weixin.qq.com/s?__biz=MzA3MDUyMDA4NQ==&mid=2247484687&idx=1&sn=26fecf578f8377485d1e097da6857bc5)
+- [微信第一次官方公开课图文直播 内附pdf文件下载](http://bbs.larkapp.com/thread-12890-1-1.html)
+- [青雀论坛：首届微信小程序开发者沙龙现场回顾 内附PPT、源码下载](http://bbs.larkapp.com/thread-5318-1-1.html)
 
 ### 评论
 
@@ -93,6 +107,8 @@
 
 - [揭秘：腾讯内部首个被张小龙点赞的小程序是怎么开发出来的？(自选股)](http://36kr.com/p/5058174.html)
 - [小程序上手体验：我们做了一款，让你极速查公交](http://mp.weixin.qq.com/s?__biz=MzI4ODUxNTczMA==&mid=2247483802&idx=1&sn=c3349ef305786faec1d5a7a6b28ac778)
+- [在小程序上买买买是怎样一种体验？现在就来试试吧](http://mp.weixin.qq.com/s?__biz=MzI4ODUxNTczMA==&mid=2247483970&idx=1&sn=1e92581cff47046f2c3b88d7c4b02794&scene=0#wechat_redirect)
+
 
 ### 运营
 

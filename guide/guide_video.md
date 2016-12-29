@@ -1,7 +1,11 @@
 ## 视频
 
+### 推荐
+
+- [免费：价值499元的极客微信小程序完整视频：共计50个视频](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1128&extra=page%3D1%26filter%3Dtypeid%26typeid%3D7)
 - [免费：全网首个微信小程序开发视频教程（33课时）](http://www.howzhi.com/course/15035/)
 - [免费：[WXOPEN.Club出品] 微信小程序开发视频教程 （持续更新中...）](http://wxopen.club/topic/582d4999745f85100cd13a65) 以及 [配套源代码](https://github.com/ParryQiu/wxopenclub-wxapp-lessons)
+- [免费：[青雀论坛出品] 微信小程序视频教程合集 附带源码、PPT下载](http://bbs.larkapp.com/thread-5695-1-1.html)
 
 ### CSDN
 

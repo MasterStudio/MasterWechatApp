@@ -93,6 +93,7 @@
 
 ![Emoji效果图](https://weappdev.com/uploads/default/optimized/1X/23dc5e55c671267fdbfdc7308985323dea9e3716_1_278x500.gif)
 
+
 ### 列表
 
 #### [首字母排序选择表](https://weappdev.com/t/wxsortpickerview-0-1/374)
@@ -111,6 +112,16 @@
 
 ![WxSortPickerView效果图](https://raw.githubusercontent.com/icindy/wxSortPickerView/master/screenshoot/wxSortPickerView.gif)
 
+#### [『图片懒加载』解决方案](https://gold.xitu.io/post/5851a46061ff4b0068408ba7)
+
+[源代码](https://github.com/didiaohu/xiaoxiaoxiao/tree/master/lazyload)
+
+![『图片懒加载』解决方案](https://dn-mhke0kuv.qbox.me/465490074ca467b67086.gif)
+
+
+#### [城市字母切换](http://www.wxapp-union.com/portal.php?mod=view&aid=855)
+
+![城市切换](http://www.wxapp-union.com/data/attachment/forum/201612/23/225907xffbbz87b7glof0a.gif)
 
 
 ### 布局
@@ -183,6 +194,14 @@
 
 ![弹动侧边滑动](https://dn-mhke0kuv.qbox.me/5d15f95c5f8ccda793d6.gif)
 
+
+### 选择器
+
+#### [省市区选择器](http://www.wxapp-union.com/portal.php?mod=view&aid=823)
+
+[源代码](http://git.oschina.net/dotton/lendoo-wx)
+
+![省市区选择器](http://www.wxapp-union.com/data/attachment/portal/201612/21/104729rbzmfj42455kb4s0.gif)
 
 
 ### 搜索
@@ -261,6 +280,15 @@
 
 ![仿天猫超市抽奖效果图](http://img.blog.csdn.net/20161207120916214?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzEzODMzNDU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
+### 气泡
+
+#### [仿QQ消息气泡拖拽消失](https://github.com/didiaohu/xiaoxiaoxiao/tree/master/bezierDemo)
+
+今天带来的是仿QQ消息气泡拖拽消失特效，源码中很多地方还是有很多不足，希望大家一起齐心协力，给我提出宝贵意见，咱们一起来继续完善此效果
+
+![仿QQ消息气泡](https://dn-mhke0kuv.qbox.me/240abd13a6846702fabc.gif)
+
+![相关文章——微信小程序之『仿QQ消息气泡拖拽消失』](https://gold.xitu.io/post/58628cba1b69e6006ceaa145)
 
 
 ### 多媒体

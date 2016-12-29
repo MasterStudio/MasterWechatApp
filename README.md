@@ -6,7 +6,7 @@
 
 ## 本项目地址
 
-Github 仓库：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp)
+Github 仓库 (跪求Star 😀 )：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp)
 
 Pages 在线阅读 (速度较快)：[weapp.masterstudio.tech](http://weapp.masterstudio.tech/)
 
@@ -41,7 +41,7 @@ Gitbook 在线阅读 (速度较慢，需翻墙，可下PDF电子书)：[master-w
   - [框架](module/module_framework.md)  `/module/module_framework.md`
   - [UI组件](module/module_ui.md)  `/module/module_ui.md`
   - [库](module/module_library.md)  `/module/module_library.md`
-- [案例](demo/README.md)  `/demo/README.md`
+- [Demo](demo/README.md)  `/demo/README.md`
   - [HelloWorld](demo/demo_hello_world.md)   `/demo/demo_hello_world.md`
   - [电商团购类](demo/demo_ebiz.md)   `/demo/demo_ebiz.md`
   - [新闻资讯类](demo/demo_news.md)   `/demo/demo_news.md`
@@ -57,9 +57,11 @@ Gitbook 在线阅读 (速度较慢，需翻墙，可下PDF电子书)：[master-w
 
 欢迎加入 `QQ群` 和 `微信群`
 
-### QQ群
+### QQ群 (群号：462184130)
 
-
+<img src="http://ogl5vjc1c.bkt.clouddn.com/wechat_group_qq_1.png" width="345px" />
 
 ### 微信群
+
+<img src="http://ogl5vjc1c.bkt.clouddn.com/wechat_group_wc_1.png" width="345px" />
 

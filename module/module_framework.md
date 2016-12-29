@@ -79,14 +79,14 @@ Labrador 支持ES6/7的微信小程序组件化开发框架
 - `Travis CI`
 
 
-### [StartKit(Gulp + Babel + Sass)](https://github.com/zarknight/wxapp-startkit)
+### [StartKit](https://github.com/zarknight/wxapp-startkit)
 
 ![travis-ci](https://travis-ci.org/zarknight/wxapp-startkit.svg?branch=master) ![Dependency Status](https://david-dm.org/zarknight/wxapp-startkit.svg)
 
 ![star](https://img.shields.io/github/stars/zarknight/wxapp-startkit.svg?style=social&label=Star)
 ![fork](https://img.shields.io/github/forks/zarknight/wxapp-startkit.svg?style=social&label=Fork)
 
-微信小程序 StartKit
+微信小程序 StartKit (Gulp + Babel + Sass)
 
 #### 功能点
 
@@ -95,7 +95,7 @@ Labrador 支持ES6/7的微信小程序组件化开发框架
 - 编译后的代码进行了压缩优化，并生成必要的 `Source Map` 文件
 - 用 `Gulp` 编译
 
-### [hodal/winv](https://github.com/phodal/winv)
+### [winv](https://github.com/phodal/winv)
 
 ![star](https://img.shields.io/github/stars/phodal/winv.svg?style=social&label=Star)
 ![fork](https://img.shields.io/github/forks/phodal/winv.svg?style=social&label=Fork)
