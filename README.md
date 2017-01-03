@@ -59,9 +59,9 @@ Gitbook.com 在线阅读 (速度较慢，需翻墙)：[master-wang.gitbooks.io/M
 
 ### QQ群 (群号：462184130)
 
-<img src="http://ogl5vjc1c.bkt.clouddn.com/wechat_group_qq_1.png" width="345px" />
+<img src="http://ogl5vjc1c.bkt.clouddn.com/image/master/wechat/group_qq_1.png" width="345px" />
 
 ### 微信群
 
-<img src="http://ogl5vjc1c.bkt.clouddn.com/wechat_group_wc_1.png" width="345px" />
+<img src="http://ogl5vjc1c.bkt.clouddn.com/image/master/wechat/group_wx_1.png" width="345px" />
 
