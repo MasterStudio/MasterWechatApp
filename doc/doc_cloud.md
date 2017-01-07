@@ -4,6 +4,11 @@
 
 - [从搭建一个微信小程序开始](https://www.qcloud.com/act/event/yingyonghao.html)
 - [微信小程序一站式解决方案](https://github.com/tencentyun/weapp-solution)
+- [文件上传下载应用场景](https://www.qcloud.com/document/product/448/6404)
+- [WebSocket长连接应用场景](https://www.qcloud.com/document/product/448/6405)
+- [会话管理场景](https://www.qcloud.com/document/product/448/6424)
+- [视频应用场景](https://www.qcloud.com/document/product/448/6425)
+
 
 ## [LeanCloud](https://leancloud.cn)
 

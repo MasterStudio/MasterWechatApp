@@ -17,6 +17,7 @@
 - [微信小程序快速入门教程|VR视频推荐DEMO](http://www.jianshu.com/p/0831f0b08a57)
 - [分享我用cnode社区api做微信小应用的入门过程(CNode)](https://cnodejs.org/topic/57ea257b3670ca3f44c5beb6)
 - [微信小程序ajax请求到自己的网站(庆恺的笔记)](http://www.toutiao.com/i6337811737235948034/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&isappinstalled=1&iid=5802414556&utm_medium=toutiao_ios&wxshare_count=2&pbid=21507233636)
+- [从零开始：微信小程序新手入门宝典《一》](http://www.wxapp-union.com/portal.php?mod=view&aid=1011)
 
 ### 知识图谱
 
@@ -55,6 +56,7 @@
 - [微信小程序集成Redux(Segmentfault)](https://segmentfault.com/a/1190000007107646)
 - [微信小程序和谷歌PWA有什么关系？(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652039482&idx=2&sn=778e1313ebbd832b590b81a8088b63db#rd)
 - [使用ES6新特性开发微信小程序（1）](http://mp.weixin.qq.com/s?__biz=MzI0ODU5Mzg0NA==&mid=2247483658&idx=1&sn=5461f829c6bca653d2c1aea04dbf924d)
+- [微信小程序全面实战，架构设计 && 躲坑攻略](http://www.jianshu.com/p/4433d46e6235)
 
 ### 架构分析
 
