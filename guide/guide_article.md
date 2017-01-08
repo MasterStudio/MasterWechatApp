@@ -18,6 +18,10 @@
 - [分享我用cnode社区api做微信小应用的入门过程(CNode)](https://cnodejs.org/topic/57ea257b3670ca3f44c5beb6)
 - [微信小程序ajax请求到自己的网站(庆恺的笔记)](http://www.toutiao.com/i6337811737235948034/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&app=news_article&utm_source=weixin&isappinstalled=1&iid=5802414556&utm_medium=toutiao_ios&wxshare_count=2&pbid=21507233636)
 - [从零开始：微信小程序新手入门宝典《一》](http://www.wxapp-union.com/portal.php?mod=view&aid=1011)
+- [现学现卖微信小程序开发（一）](https://gold.xitu.io/post/5865e50361ff4b006ba7fa80)
+- [现学现卖微信小程序开发（二）](https://gold.xitu.io/post/586af04eda2f600055c089ec)
+- [现学现卖微信小程序开发（三）：引入Rx，为小程序插上翅膀](https://gold.xitu.io/post/5870bd4b61ff4b005c3c4f6e)
+
 
 ### 知识图谱
 
