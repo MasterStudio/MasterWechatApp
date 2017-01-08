@@ -1,6 +1,14 @@
 # Summary
 
 * [简介](README.md)
+* [AppStore](app_store/README.md)
+  * [电子商务类](app_store/app_ebiz.md)
+  * [新闻资讯类](app_store/app_news.md)
+  * [金融股票类](app_store/app_financial.md)
+  * [地图出行LBS](app_store/app_lbs.md)
+  * [音乐视频](app_store/app_media.md)
+  * [教育类](app_store/app_edu.md)
+  * [工具类](app_store/app_tool.md)
 * [文档](doc/README.md)
   * [开发](doc/doc_develop.md)
   * [设计与运营](doc/doc_design_operation.md)

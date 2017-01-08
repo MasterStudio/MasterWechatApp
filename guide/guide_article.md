@@ -53,6 +53,7 @@
 - [小程序的坑在哪里？](https://mp.weixin.qq.com/s?__biz=MzI2ODU2MzIxNQ==&mid=2247483663&idx=1&sn=8bea89340df5ccad5e42d2f6ac168486)
 - [「微信小程序」入坑总结](http://www.ahonn.me/2016/11/14/wechat-app-summary/)
 - [高仿QQ微信小程序，我趟过的坑](http://blog.csdn.net/xiehuimx/article/details/52005355)
+- [跳坑指南《七十一》微信小程序真机预览跟本地不同的问题](http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1909)
 
 ## 进阶
 
@@ -61,6 +62,7 @@
 - [微信小程序和谷歌PWA有什么关系？(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652039482&idx=2&sn=778e1313ebbd832b590b81a8088b63db#rd)
 - [使用ES6新特性开发微信小程序（1）](http://mp.weixin.qq.com/s?__biz=MzI0ODU5Mzg0NA==&mid=2247483658&idx=1&sn=5461f829c6bca653d2c1aea04dbf924d)
 - [微信小程序全面实战，架构设计 && 躲坑攻略](http://www.jianshu.com/p/4433d46e6235)
+- [合理使用微信小程序 1024kb(1M) 限制](http://www.tuicool.com/articles/UNjiqee?via=wechat_qr)
 
 ### 架构分析
 
@@ -108,6 +110,8 @@
 
 
 ## 产品
+
+- [30多家布局小程序的公司名单在这里！一篇文章了解整个行业！](https://mp.weixin.qq.com/s?__biz=MzIzODIwMDU0Nw==&mid=2247483726&idx=1&sn=15ec99bd89a86ca8504349fde52cb8ee)
 
 ### 优秀产品
 
