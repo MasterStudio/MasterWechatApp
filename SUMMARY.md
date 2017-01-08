@@ -2,8 +2,8 @@
 
 * [简介](README.md)
 * [AppStore](app_store/README.md)
-  * [电子商务类](app_store/app_ebiz.md)
-  * [新闻资讯类](app_store/app_news.md)
+  * [电商团购类](app_store/app_ebiz.md)
+  * [新闻资讯类](app_store/app_info.md)
   * [金融股票类](app_store/app_financial.md)
   * [地图出行LBS](app_store/app_lbs.md)
   * [音乐视频](app_store/app_media.md)
