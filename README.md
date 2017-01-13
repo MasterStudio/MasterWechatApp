@@ -28,9 +28,11 @@ Gitbook.com 在线阅读 (速度较慢，需翻墙)：[master-wang.gitbooks.io/M
   - [电商团购](app_store/app_ebiz.md)    `/app_store/app_ebiz.md`
   - [新闻资讯类](app_store/app_news.md)    `/app_store/app_news.md`
   - [金融股票类](app_store/app_financial.md)    `/app_store/app_financial.md`
+  - [O2O生活类](app_store/app_o2o.md)  `/app_store/app_o2o.md`
   - [地图出行LBS](app_store/app_lbs.md)   `/app_store/app_lbs.md`
   - [音乐视频](app_store/app_media.md)   `/app_store/app_media.md`
   - [教育类](app_store/app_edu.md)   `/app_store/app_edu.md`
+  - [工具类](app_store/app_tool.md)  `/app_store/app_tool.md`
 - [文档](doc/README.md)  `/doc/README.md`
   - [开发](doc/doc_develop.md)    `/doc/doc_develop.md`
   - [设计与运营](doc/doc_design_operation.md)  `/doc/doc_design_operation.md`
@@ -70,5 +72,4 @@ Gitbook.com 在线阅读 (速度较慢，需翻墙)：[master-wang.gitbooks.io/M
 
 ### 微信群
 
-<img src="http://ogl5vjc1c.bkt.clouddn.com/image/master/wechat/group_wx_1.png" width="345px" />
-
+由于微信群已满，请加我个人微信 `wyf10211006` ，我会把你拉进群
