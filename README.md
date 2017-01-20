@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/MasterStudio/MasterWechatApp.svg?branch=master)](https://travis-ci.org/MasterStudio/MasterWechatApp)
 
-『微信小程序』**App收录大全（目前最全的收录，且开放编辑）、App二维码搜集**、优秀教程、开源轮子、**开源Demo** 资源汇总，长期维护更新中，欢迎大家一起维护（`issue` & `PR`）！
+『微信小程序』优秀教程、开源轮子、**开源Demo** 资源汇总，长期维护更新中，欢迎大家一起维护（`issue` & `PR`）！
 
 ## 本项目地址
 
@@ -24,15 +24,6 @@ Gitbook.com 在线阅读 (速度较慢，需翻墙)：[master-wang.gitbooks.io/M
 
 ## 目录索引
 
-- [AppStore](app_store/README.md)  `/app_store/README.md`
-  - [电商团购](app_store/app_ebiz.md)    `/app_store/app_ebiz.md`
-  - [新闻资讯类](app_store/app_news.md)    `/app_store/app_news.md`
-  - [金融股票类](app_store/app_financial.md)    `/app_store/app_financial.md`
-  - [O2O生活类](app_store/app_o2o.md)  `/app_store/app_o2o.md`
-  - [地图出行LBS](app_store/app_lbs.md)   `/app_store/app_lbs.md`
-  - [音乐视频](app_store/app_media.md)   `/app_store/app_media.md`
-  - [教育类](app_store/app_edu.md)   `/app_store/app_edu.md`
-  - [工具类](app_store/app_tool.md)  `/app_store/app_tool.md`
 - [文档](doc/README.md)  `/doc/README.md`
   - [开发](doc/doc_develop.md)    `/doc/doc_develop.md`
   - [设计与运营](doc/doc_design_operation.md)  `/doc/doc_design_operation.md`
