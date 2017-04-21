@@ -18,6 +18,10 @@
 
 Polyfills for w3c API on top of Weapp API
 
+#### [wx_network](https://github.com/23hp/wx_network)
+
+使用 Promise 封装的微信小程序网络请求库，带加载框、日志输出、简单易用。
+
 ### 消息总线
 
 #### [WxNotificationCenter](https://github.com/icindy/WxNotificationCenter)
@@ -32,6 +36,12 @@ Polyfills for w3c API on top of Weapp API
 #### [小程序Redux绑定库](https://github.com/charleyw/wechat-weapp-redux)
 
 微信小程序Redux绑定，用于在微信小程序为页面绑定Redux Store
+
+### 音视频
+
+#### [wx_player](https://github.com/23hp/wx_player)
+
+傻瓜式音频播放器，一个API就能播放本地和网络音频
 
 ### 其他
 
