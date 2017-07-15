@@ -31,7 +31,7 @@ jobs:
       # Download and cache dependencies
       - restore_cache:
           keys:
-          - v1-dependencies-{{ checksum "package.json" }}
+          - v1-dependencies-{{ checksum "book.json" }}
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
 
@@ -42,7 +42,7 @@ jobs:
       - save_cache:
           paths:
             - node_modules
-          key: v1-dependencies-{{ checksum "package.json" }}
+          key: v1-dependencies-{{ checksum "book.json" }}
         
       - run: gitbook build
 
@@ -50,7 +50,7 @@ jobs:
       - deploy:
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ];
-              then chmod +x .circleci/deploy.sh & ./.circleci/deploy.sh;
+              then ./.circleci/deploy.sh & chmod +x .circleci/deploy.sh;
             fi
 
       - store_artifacts:
