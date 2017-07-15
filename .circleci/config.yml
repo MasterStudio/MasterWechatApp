@@ -66,7 +66,8 @@ jobs:
           at: _book
       - run: |
           cd _book
-          ssh -o "StrictHostKeyChecking no" git@git.coding.net
+          ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null github.com
+          ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null git.coding.net
           git config --global user.name 'wangyf'
           git config --global user.email 'zgtjwyftc@gmail.com'
           git init
