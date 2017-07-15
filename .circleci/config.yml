@@ -33,7 +33,6 @@ jobs:
           - v1-dependencies-{{ checksum "package.json" }}
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
-      - npm install -g gitbook-cli
 
       - run: npm install -g gitbook-cli
 
