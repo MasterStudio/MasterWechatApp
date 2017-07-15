@@ -10,7 +10,7 @@ Github 仓库 (跪求Star 😀 )：[MasterStudio/MasterWechatApp](https://github
 
 Pages 在线阅读 (速度较快)：[weapp.masterstudio.tech](http://weapp.masterstudio.tech/)
 
-Gitbook.com 在线阅读 (速度较慢，需翻墙)：[master-wang.gitbooks.io/MasterWechatApp/](https://master-wang.gitbooks.io/MasterWechatApp/)
+Gitbook.com 在线阅读 (速度较慢，需翻墙)：[masterstudio.gitbooks.io/masterwechatapp](https://masterstudio.gitbooks.io/masterwechatapp/)
 
 ## 贡献指南
 
