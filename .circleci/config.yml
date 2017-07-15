@@ -53,17 +53,16 @@ jobs:
       - run: gitbook build
 
       - persist_to_workspace:
-          root: _book
+          root: ~/repo
           paths:
-            - *
+            - _book/*
 
   deploy_product:
     docker:
       - image: circleci/node:6
-    working_directory: ~/repo
     steps:
       - attach_workspace:
-          at: _book
+          at: ~/repo
       - run: |
           cd _book
           git config --global user.name 'wangyf'
