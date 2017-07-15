@@ -62,6 +62,7 @@ jobs:
       - image: circleci/node:6
     working_directory: ~/repo
     steps:
+      - checkout
       - attach_workspace:
           at: _book
       - run: |
