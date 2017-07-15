@@ -1,4 +1,4 @@
-# 微信小程序大全 [![Awesome](https://cdn.rawgit.com/MasterStudio/MasterCenter/master/badge.svg)](https://github.com/MasterStudio/MasterCenter)
+# 微信小程序大全 [![Awesome](https://ws3.sinaimg.cn/large/006tNc79ly1fhkva866jij302n00k0rq.jpg)](https://github.com/MasterStudio/MasterCenter)
 
 [![Build Status](https://travis-ci.org/MasterStudio/MasterWechatApp.svg?branch=master)](https://travis-ci.org/MasterStudio/MasterWechatApp)
 
