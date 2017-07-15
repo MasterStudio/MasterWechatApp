@@ -28,7 +28,7 @@ after_script:
 - git init
 - git add .
 - git commit -m "Deploy to GitHub Pages"
-- git push --force --quiet "git@github.com:MasterStudio/MasterWechatApp.git" master:gh-pages
+- git push --force "git@github.com:MasterStudio/MasterWechatApp.git" master:gh-pages
 - git config --global user.name 'evanwang'
 - git config --global user.email 'evan.wang.master@gmail.com'
-- git push --force --quiet "git@git.coding.net:MasterStudio/MasterWechatApp.git" master:coding-pages
+- git push --force "git@git.coding.net:MasterStudio/MasterWechatApp.git" master:coding-pages
