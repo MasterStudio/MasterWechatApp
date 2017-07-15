@@ -34,7 +34,7 @@ jobs:
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
 
-      - run: npm install -g gitbook-cli
+      - run: sudo npm install -g gitbook-cli
 
       - run: gitbook install
 
