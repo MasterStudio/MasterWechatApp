@@ -22,10 +22,10 @@ jobs:
       - checkout
 
       - run: |
-        chmod 600 ~/.ssh/id_rsa
-        eval $(ssh-agent)
-        ssh-add ~/.ssh/id_rsa
-        cp .travis/ssh_config ~/.ssh/config
+          chmod 600 ~/.ssh/id_rsa
+          eval $(ssh-agent)
+          ssh-add ~/.ssh/id_rsa
+          cp .travis/ssh_config ~/.ssh/config
 
       # Download and cache dependencies
       - restore_cache:
@@ -47,13 +47,13 @@ jobs:
       - run: gitbook build
 
       - run: |
-        cd _book
-        git config --global user.name 'wangyf'
-        git config --global user.email 'zgtjwyftc@gmail.com'
-        git init
-        git add .
-        git commit -m "Deploy to GitHub Pages"
-        git push --force "git@github.com:MasterStudio/MasterWechatApp.git" master:gh-pages
-        git config --global user.name 'evanwang'
-        git config --global user.email 'evan.wang.master@gmail.com'
-        git push --force "git@git.coding.net:MasterStudio/MasterWechatApp.git" master:coding-pages
+          cd _book
+          git config --global user.name 'wangyf'
+          git config --global user.email 'zgtjwyftc@gmail.com'
+          git init
+          git add .
+          git commit -m "Deploy to GitHub Pages"
+          git push --force "git@github.com:MasterStudio/MasterWechatApp.git" master:gh-pages
+          git config --global user.name 'evanwang'
+          git config --global user.email 'evan.wang.master@gmail.com'
+          git push --force "git@git.coding.net:MasterStudio/MasterWechatApp.git" master:coding-pages
