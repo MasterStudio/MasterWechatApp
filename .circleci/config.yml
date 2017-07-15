@@ -54,4 +54,4 @@ jobs:
             fi
 
       - store_artifacts:
-        path: _book
+          path: _book
