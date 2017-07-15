@@ -1,6 +1,6 @@
 # 微信小程序大全 [![Awesome](https://ws3.sinaimg.cn/large/006tNc79ly1fhkva866jij302n00k0rq.jpg)](https://github.com/MasterStudio/MasterCenter)
 
-[![CircleCI](https://circleci.com/gh/MasterStudio/MasterWechatApp.svg?style=svg)](https://circleci.com/gh/MasterStudio/MasterWechatApp)
+[![CircleCI](https://circleci.com/gh/MasterStudio/MasterWechatApp.svg?style=shield)](https://circleci.com/gh/MasterStudio/MasterWechatApp)
 
 『微信小程序』优秀教程、开源轮子、**开源Demo** 资源汇总，长期维护更新中，欢迎大家一起维护（`issue` & `PR`）！
 
