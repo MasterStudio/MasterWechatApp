@@ -72,9 +72,9 @@ jobs:
           git init
           git add .
           git commit -m "Deploy to GitHub Pages"
-          ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null github.com
+          ssh -o "StrictHostKeyChecking no" git@github.com
           git push --force "git@github.com:MasterStudio/MasterWechatApp.git" master:gh-pages
           git config --global user.name 'evanwang'
           git config --global user.email 'evan.wang.master@gmail.com'
-          ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null git.coding.net
+          ssh -o "StrictHostKeyChecking no" git@git.coding.net
           git push --force "git@git.coding.net:MasterStudio/MasterWechatApp.git" master:coding-pages
