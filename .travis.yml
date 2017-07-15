@@ -21,7 +21,6 @@ before_script:
 - gitbook install
 script:
 - gitbook build
-after_success:
 - cd _book
 - git config --global user.name 'wangyf'
 - git config --global user.email 'zgtjwyftc@gmail.com'
