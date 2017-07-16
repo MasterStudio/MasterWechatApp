@@ -6,7 +6,7 @@
 
 ## 本项目地址
 
-Github 仓库 (跪求Star 😀 )：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp)
+Github 仓库 (跪求Star 🙏)：[MasterStudio/MasterWechatApp](https://github.com/MasterStudio/MasterWechatApp)
 
 Pages 在线阅读 (速度较快)：[weapp.masterstudio.tech](http://weapp.masterstudio.tech/)
 
