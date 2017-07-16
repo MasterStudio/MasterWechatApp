@@ -31,7 +31,7 @@ jobs:
       # Download and cache dependencies
       - restore_cache:
           keys:
-          - v1-dependencies-{{ checksum "book.json" }}
+          - v1-dependencies-{{ checksum "book.json" }}-{{ epoch / (12 * 3600) }}
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
 
@@ -42,7 +42,7 @@ jobs:
       - save_cache:
           paths:
             - node_modules
-          key: v1-dependencies-{{ checksum "book.json" }}
+          key: v1-dependencies-{{ checksum "book.json" }}-{{ epoch / (12 * 3600) }}
         
       - run: node_modules/.bin/gitbook build
 
