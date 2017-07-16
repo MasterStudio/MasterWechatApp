@@ -1,0 +1,34 @@
+language: node_js
+node_js:
+- '6'
+sudo: false
+branches:
+  only:
+  - master
+cache:
+  directories:
+  - node_modules
+before_install:
+- openssl aes-256-cbc -K $encrypted_5f469119e1fc_key -iv $encrypted_5f469119e1fc_iv
+  -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d
+- chmod 600 ~/.ssh/id_rsa
+- eval $(ssh-agent)
+- ssh-add ~/.ssh/id_rsa
+- cp .travis/ssh_config ~/.ssh/config
+install:
+- npm install -g gitbook-cli
+before_script:
+- gitbook install
+script:
+- gitbook build
+after_script:
+- cd _book
+- git config --global user.name 'wangyf'
+- git config --global user.email 'zgtjwyftc@gmail.com'
+- git init
+- git add .
+- git commit -m "Deploy to GitHub Pages"
+- git push --force "git@github.com:MasterStudio/MasterWechatApp.git" master:gh-pages
+- git config --global user.name 'evanwang'
+- git config --global user.email 'evan.wang.master@gmail.com'
+- git push --force "git@git.coding.net:MasterStudio/MasterWechatApp.git" master:coding-pages
