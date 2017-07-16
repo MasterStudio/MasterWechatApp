@@ -8,12 +8,12 @@ workflows:
   version: 2
   build_deploy:
     jobs:
-      - build:
+      - build_deploy:
           filters:
             branches:
               ignore: /.*-pages/
 jobs:
-  build:
+  build_deploy:
     docker:
       # specify the version you desire here
       - image: circleci/node:6
@@ -31,9 +31,9 @@ jobs:
       # Download and cache dependencies
       - restore_cache:
           keys:
-          - v1.1-dependencies-{{ checksum "book.json" }}
+          - v1.2-dependencies-{{ checksum "book.json" }}
           # fallback to using the latest cache if no exact match is found
-          - v1.1-dependencies-
+          - v1.2-dependencies-
 
       - run: npm install gitbook-cli
 
@@ -42,7 +42,7 @@ jobs:
       - save_cache:
           paths:
             - node_modules
-          key: v1.1-dependencies-{{ checksum "book.json" }}
+          key: v1.2-dependencies-{{ checksum "book.json" }}
         
       - run: node_modules/.bin/gitbook build
 
