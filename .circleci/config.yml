@@ -55,8 +55,8 @@ jobs:
       - persist_to_workspace:
           root: _book/
           paths: 
-            - \*/*
-            - \*
+            - '*'
+            - '*/*'
 
   deploy_product:
     docker:
