@@ -41,21 +41,22 @@ jobs:
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
 
-      - run: sudo npm install -g gitbook-cli
+      - run: npm install gitbook-cli
 
-      - run: gitbook install
+      - run: node_modules/.bin/gitbook install
 
       - save_cache:
           paths:
             - node_modules
           key: v1-dependencies-{{ checksum "book.json" }}
         
-      - run: gitbook build
+      - run: node_modules/.bin/gitbook build
 
       - persist_to_workspace:
-          root: .
-          paths:
-            - _book/*
+          root: _book/
+          paths: 
+            - \*/*
+            - \*
 
   deploy_product:
     docker:
@@ -64,7 +65,7 @@ jobs:
     steps:
       - checkout
       - attach_workspace:
-          at: .
+          at: _book/
       - run: |
           cd _book
           git config --global user.name 'wangyf'
