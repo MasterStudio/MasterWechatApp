@@ -48,3 +48,15 @@ Polyfills for w3c API on top of Weapp API
 #### [CFETeam/weapp-session](https://github.com/CFETeam/weapp-session)
 
 为微信小程序提供会话管理功能
+
+#### [wxDraw 全面的小程序Canvas动画库 支持创建各种图形，动画以及主要手势交互事件](https://github.com/bobiscool/wxDraw)
+> 轻量的小程序canvas动画库
+
+##### 特性
+- 简单 不需要你会canvas,会用jQuery就会使用wxDraw。
+- 灵活 所有图形，随时随地都可以进行属性修改、图形添加以及图形销毁。
+- 事件支持 小程序支持的事件只要是合理的都支持。
+- 缓动动画支持 wxDraw支持链式调用动画『就像jQuery的animate一样』，并且支持几乎所有的缓动函数
+
+##### demo 
+![](https://github.com/bobiscool/wxDraw/raw/master/assets/google.gif)
